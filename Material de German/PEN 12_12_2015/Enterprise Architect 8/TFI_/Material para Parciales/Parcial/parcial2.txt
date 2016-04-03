@@ -1,0 +1,12 @@
+edición 5
+Cap 28, Cap 23
+
+edición 5
+Cap 13 / 14 / 28 / 29 / 30
+
+CAP13: Estrategias de Pruebas de Soft (hoja 404)
+CAP14: Técnicas de pruebas de soft (hoja 440)
+CAP28: Métodos Formales (Hoja 852)
+CAP29: Ingeniería de Soft de solo limpia (hoja 880_)
+CAP30: Ingeniería de Soft basado en componentes (hoja 901)
+

@@ -1,0 +1,348 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="BitacoraToolStripMenuItem" xml:space="preserve">
+    <value>Event Viewer</value>
+    <comment>Seguridad</comment>
+  </data>
+  <data name="BitacoraToolStripMenuItem1" xml:space="preserve">
+    <value>Reports Event Viewer</value>
+    <comment>Seguridad</comment>
+  </data>
+  <data name="btnAlta" xml:space="preserve">
+    <value>Create</value>
+    <comment>Cliente</comment>
+  </data>
+  <data name="btnBaja" xml:space="preserve">
+    <value>Delete</value>
+    <comment>Cliente</comment>
+  </data>
+  <data name="btnClieAlta" xml:space="preserve">
+    <value>Create</value>
+    <comment>Cliente</comment>
+  </data>
+  <data name="btnCliebaja" xml:space="preserve">
+    <value>Delete</value>
+    <comment>Cliente</comment>
+  </data>
+  <data name="btnClieList" xml:space="preserve">
+    <value>List</value>
+    <comment>Cliente</comment>
+  </data>
+  <data name="btnClieMod" xml:space="preserve">
+    <value>Modify</value>
+    <comment>Cliente</comment>
+  </data>
+  <data name="btnListar" xml:space="preserve">
+    <value>List</value>
+    <comment>Cliente</comment>
+  </data>
+  <data name="btnListarTodos" xml:space="preserve">
+    <value>List all Events</value>
+    <comment>Bitacora</comment>
+  </data>
+  <data name="btnModificar" xml:space="preserve">
+    <value>Modify</value>
+    <comment>Cliente</comment>
+  </data>
+  <data name="CambiarClaveToolStripMenuItem" xml:space="preserve">
+    <value>Change Password</value>
+    <comment>Seguridad</comment>
+  </data>
+  <data name="CambiarIdiomaToolStripMenuItem" xml:space="preserve">
+    <value>Change Language</value>
+    <comment>Seguridad</comment>
+  </data>
+  <data name="ClientesToolStripMenuItem" xml:space="preserve">
+    <value>Reports Clients</value>
+    <comment>Seguridad</comment>
+  </data>
+  <data name="CriticidadAltaToolStripMenuItem" xml:space="preserve">
+    <value>High Critalicity</value>
+    <comment>Seguridad</comment>
+  </data>
+  <data name="FamilaPatenteToolStripMenuItem" xml:space="preserve">
+    <value>Family - Patent</value>
+    <comment>Seguridad</comment>
+  </data>
+  <data name="FamiliaToolStripMenuItem" xml:space="preserve">
+    <value>Permissions</value>
+    <comment>Seguridad</comment>
+  </data>
+  <data name="frmCliente" xml:space="preserve">
+    <value>Module Client</value>
+    <comment>Cliente</comment>
+  </data>
+  <data name="lblApe" xml:space="preserve">
+    <value>Last Name</value>
+    <comment>Cliente</comment>
+  </data>
+  <data name="lblcantidad" xml:space="preserve">
+    <value>Amount</value>
+    <comment>Libro</comment>
+  </data>
+  <data name="lblCliente" xml:space="preserve">
+    <value>Client</value>
+    <comment>Cliente</comment>
+  </data>
+  <data name="lblCuotas" xml:space="preserve">
+    <value>Fee</value>
+    <comment>Cliente</comment>
+  </data>
+  <data name="lblCuotasPende" xml:space="preserve">
+    <value>Pending Fee</value>
+    <comment>Cliente</comment>
+  </data>
+  <data name="lbldesc" xml:space="preserve">
+    <value>Description</value>
+    <comment>Libro</comment>
+  </data>
+  <data name="lblDesde" xml:space="preserve">
+    <value>From</value>
+    <comment>Bitacora</comment>
+  </data>
+  <data name="lbldir" xml:space="preserve">
+    <value>address</value>
+    <comment>Cliente</comment>
+  </data>
+  <data name="lblDni" xml:space="preserve">
+    <value>Dni</value>
+    <comment>Cliente</comment>
+  </data>
+  <data name="lbleditorial" xml:space="preserve">
+    <value>Editorial</value>
+    <comment>Libro</comment>
+  </data>
+  <data name="lblemail" xml:space="preserve">
+    <value>Email</value>
+    <comment>Cliente</comment>
+  </data>
+  <data name="lblfec" xml:space="preserve">
+    <value>Date</value>
+    <comment>Cliente</comment>
+  </data>
+  <data name="lblFecha" xml:space="preserve">
+    <value>Date</value>
+    <comment>Cliente</comment>
+  </data>
+  <data name="lblHasta" xml:space="preserve">
+    <value>To</value>
+    <comment>Bitacora</comment>
+  </data>
+  <data name="lblImporte" xml:space="preserve">
+    <value>Amount</value>
+    <comment>Cliente</comment>
+  </data>
+  <data name="lblLib" xml:space="preserve">
+    <value>Book</value>
+    <comment>Cliente</comment>
+  </data>
+  <data name="lblLibro" xml:space="preserve">
+    <value>Book</value>
+    <comment>Cliente</comment>
+  </data>
+  <data name="lblListadoClientes" xml:space="preserve">
+    <value>Client List</value>
+    <comment>Cliente</comment>
+  </data>
+  <data name="lblNivel" xml:space="preserve">
+    <value>Level</value>
+    <comment>Bitacora</comment>
+  </data>
+  <data name="lblNom" xml:space="preserve">
+    <value>First Name</value>
+    <comment>Cliente</comment>
+  </data>
+  <data name="lblprecio" xml:space="preserve">
+    <value>Price</value>
+    <comment>Libro</comment>
+  </data>
+  <data name="lblsaldo" xml:space="preserve">
+    <value>Balance</value>
+    <comment>Cliente</comment>
+  </data>
+  <data name="lblSeleccionarCrit" xml:space="preserve">
+    <value>Select Level</value>
+    <comment>Bitacora</comment>
+  </data>
+  <data name="lblSeleccionarFec" xml:space="preserve">
+    <value>Select Date</value>
+    <comment>Bitacora</comment>
+  </data>
+  <data name="lblSeleccionarUsuario" xml:space="preserve">
+    <value>Select User</value>
+    <comment>Bitacora</comment>
+  </data>
+  <data name="lbltel" xml:space="preserve">
+    <value>Phone</value>
+    <comment>Cliente</comment>
+  </data>
+  <data name="lblUsuario" xml:space="preserve">
+    <value>User</value>
+    <comment>Bitacora</comment>
+  </data>
+  <data name="lblVendedor" xml:space="preserve">
+    <value>Seller</value>
+    <comment>Cliente</comment>
+  </data>
+  <data name="ModuloClientesToolStripMenuItem" xml:space="preserve">
+    <value>Clients Module</value>
+    <comment>Modulo Cliente</comment>
+  </data>
+  <data name="ModuloLibrosToolStripMenuItem" xml:space="preserve">
+    <value>Books Module</value>
+    <comment>Modulo Libros</comment>
+  </data>
+  <data name="ModuloReportesToolStripMenuItem" xml:space="preserve">
+    <value>Reports Module</value>
+    <comment>Modulo reportes</comment>
+  </data>
+  <data name="ModuloSeguridadToolStripMenuItem" xml:space="preserve">
+    <value>Security Module</value>
+    <comment>Modulo Seguridad</comment>
+  </data>
+  <data name="ModuloVendedoresToolStripMenuItem" xml:space="preserve">
+    <value>ReSales Module</value>
+    <comment>Modulo Vendedores</comment>
+  </data>
+  <data name="ModuloVentasToolStripMenuItem" xml:space="preserve">
+    <value>Sales Module</value>
+    <comment>Modulo Ventas</comment>
+  </data>
+  <data name="RecuperarIntegridadToolStripMenuItem" xml:space="preserve">
+    <value>Recover Integrity</value>
+    <comment>Seguridad</comment>
+  </data>
+  <data name="SaldoSumatoriaToolStripMenuItem" xml:space="preserve">
+    <value>Sum Balances</value>
+    <comment>Seguridad</comment>
+  </data>
+  <data name="SalirToolStripMenuItem" xml:space="preserve">
+    <value>Exit</value>
+    <comment>Salir</comment>
+  </data>
+  <data name="UsuariosToolStripMenuItem" xml:space="preserve">
+    <value>Users</value>
+    <comment>Seguridad</comment>
+  </data>
+  <data name="UsuariosToolStripMenuItem1" xml:space="preserve">
+    <value>Users</value>
+    <comment>Seguridad</comment>
+  </data>
+</root>

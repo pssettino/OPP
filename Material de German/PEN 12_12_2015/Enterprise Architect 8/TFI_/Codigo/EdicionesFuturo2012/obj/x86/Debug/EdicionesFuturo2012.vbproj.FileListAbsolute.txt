@@ -1,0 +1,17 @@
+E:\ContinoLeandro_2012\Code\EdicionesFuturo\EdicionesFuturo2012\bin\Debug\EdicionesFuturo2012.exe
+E:\ContinoLeandro_2012\Code\EdicionesFuturo\EdicionesFuturo2012\bin\Debug\EdicionesFuturo2012.pdb
+E:\ContinoLeandro_2012\Code\EdicionesFuturo\EdicionesFuturo2012\bin\Debug\EdicionesFuturo2012.xml
+E:\ContinoLeandro_2012\Code\EdicionesFuturo\EdicionesFuturo2012\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\ContinoLeandro_2012\Code\EdicionesFuturo\EdicionesFuturo2012\obj\x86\Debug\EdicionesFuturo2012.frmCliente.resources
+E:\ContinoLeandro_2012\Code\EdicionesFuturo\EdicionesFuturo2012\obj\x86\Debug\EdicionesFuturo2012.frmPrincipal.resources
+E:\ContinoLeandro_2012\Code\EdicionesFuturo\EdicionesFuturo2012\obj\x86\Debug\EdicionesFuturo2012.Resources.resources
+E:\ContinoLeandro_2012\Code\EdicionesFuturo\EdicionesFuturo2012\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\ContinoLeandro_2012\Code\EdicionesFuturo\EdicionesFuturo2012\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\ContinoLeandro_2012\Code\EdicionesFuturo\EdicionesFuturo2012\obj\x86\Debug\EdicionesFuturo2012.exe
+E:\ContinoLeandro_2012\Code\EdicionesFuturo\EdicionesFuturo2012\obj\x86\Debug\EdicionesFuturo2012.xml
+E:\ContinoLeandro_2012\Code\EdicionesFuturo\EdicionesFuturo2012\obj\x86\Debug\EdicionesFuturo2012.pdb
+E:\ContinoLeandro_2012\Code\EdicionesFuturo\EdicionesFuturo2012\obj\x86\Debug\EdicionesFuturo2012.Form1.resources
+E:\ContinoLeandro_2012\Code\EdicionesFuturo\EdicionesFuturo2012\obj\x86\Debug\EdicionesFuturo2012.frmlogin.resources
+C:\Users\leandro\Desktop\OYPP2012\BKP ENtrega final\ContinoLeandro_2012\VB\EdicionesFuturo\EdicionesFuturo2012\obj\x86\Debug\EdicionesFuturo2012.exe
+C:\Users\leandro\Desktop\OYPP2012\BKP ENtrega final\ContinoLeandro_2012\VB\EdicionesFuturo\EdicionesFuturo2012\obj\x86\Debug\EdicionesFuturo2012.xml
+C:\Users\leandro\Desktop\OYPP2012\BKP ENtrega final\ContinoLeandro_2012\VB\EdicionesFuturo\EdicionesFuturo2012\obj\x86\Debug\EdicionesFuturo2012.pdb

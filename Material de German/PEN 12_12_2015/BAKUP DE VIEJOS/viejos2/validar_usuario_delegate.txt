@@ -1,0 +1,17 @@
+Private Delegate Sub ProgressBarPrenderApagarDelegate()
+Private prenderProgress As ProgressBarPrenderApagarDelegate
+
+If prenderProgressIs Nothing) Then
+	prenderProgress = New ProgressBarPrenderApagarDelegate(AddressOf validar)
+	prenderProgress.BeginInvoke(Nothing, Nothing)
+End If
+progress.show
+
+public sub validar()
+  validar todo el usuario
+.
+.
+.
+.
+OK, progress.hide()
+end sub

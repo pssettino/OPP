@@ -1,0 +1,160 @@
+C:\Users\leandro\Desktop\OYPP2012\BKP ENtrega final\ContinoLeandro_2012\VB\EdicionesFuturo\BE\bin\Debug\BE.dll
+C:\Users\leandro\Desktop\OYPP2012\BKP ENtrega final\ContinoLeandro_2012\VB\EdicionesFuturo\BE\bin\Debug\BE.pdb
+C:\Users\leandro\Desktop\OYPP2012\BKP ENtrega final\ContinoLeandro_2012\VB\EdicionesFuturo\BE\bin\Debug\BE.xml
+C:\Users\leandro\Desktop\OYPP2012\BKP ENtrega final\ContinoLeandro_2012\VB\EdicionesFuturo\BE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\leandro\Desktop\OYPP2012\BKP ENtrega final\ContinoLeandro_2012\VB\EdicionesFuturo\BE\obj\Debug\BE.Resources.resources
+C:\Users\leandro\Desktop\OYPP2012\BKP ENtrega final\ContinoLeandro_2012\VB\EdicionesFuturo\BE\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\leandro\Desktop\OYPP2012\BKP ENtrega final\ContinoLeandro_2012\VB\EdicionesFuturo\BE\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\leandro\Desktop\OYPP2012\BKP ENtrega final\ContinoLeandro_2012\VB\EdicionesFuturo\BE\obj\Debug\BE.dll
+C:\Users\leandro\Desktop\OYPP2012\BKP ENtrega final\ContinoLeandro_2012\VB\EdicionesFuturo\BE\obj\Debug\BE.xml
+C:\Users\leandro\Desktop\OYPP2012\BKP ENtrega final\ContinoLeandro_2012\VB\EdicionesFuturo\BE\obj\Debug\BE.pdb
+C:\Users\leandro\Desktop\bkp101012\BE\bin\Debug\BE.dll
+C:\Users\leandro\Desktop\bkp101012\BE\bin\Debug\BE.pdb
+C:\Users\leandro\Desktop\bkp101012\BE\bin\Debug\BE.xml
+C:\Users\leandro\Desktop\bkp101012\BE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\leandro\Desktop\bkp101012\BE\obj\Debug\BE.Resources.resources
+C:\Users\leandro\Desktop\bkp101012\BE\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\leandro\Desktop\bkp101012\BE\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\leandro\Desktop\bkp101012\BE\obj\Debug\BE.dll
+C:\Users\leandro\Desktop\bkp101012\BE\obj\Debug\BE.xml
+C:\Users\leandro\Desktop\bkp101012\BE\obj\Debug\BE.pdb
+C:\Users\leandro\Desktop\16-10-2012\BE\bin\Debug\BE.dll
+C:\Users\leandro\Desktop\16-10-2012\BE\bin\Debug\BE.pdb
+C:\Users\leandro\Desktop\16-10-2012\BE\bin\Debug\BE.xml
+C:\Users\leandro\Desktop\16-10-2012\BE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\leandro\Desktop\16-10-2012\BE\obj\Debug\BE.Resources.resources
+C:\Users\leandro\Desktop\16-10-2012\BE\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\leandro\Desktop\16-10-2012\BE\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\leandro\Desktop\16-10-2012\BE\obj\Debug\BE.dll
+C:\Users\leandro\Desktop\16-10-2012\BE\obj\Debug\BE.xml
+C:\Users\leandro\Desktop\16-10-2012\BE\obj\Debug\BE.pdb
+C:\Users\leandro\Desktop\seguirtrabajandoeneste - Copy\BE\bin\Debug\BE.dll
+C:\Users\leandro\Desktop\seguirtrabajandoeneste - Copy\BE\bin\Debug\BE.pdb
+C:\Users\leandro\Desktop\seguirtrabajandoeneste - Copy\BE\bin\Debug\BE.xml
+C:\Users\leandro\Desktop\seguirtrabajandoeneste - Copy\BE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\leandro\Desktop\seguirtrabajandoeneste - Copy\BE\obj\Debug\BE.Resources.resources
+C:\Users\leandro\Desktop\seguirtrabajandoeneste - Copy\BE\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\leandro\Desktop\seguirtrabajandoeneste - Copy\BE\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\leandro\Desktop\seguirtrabajandoeneste - Copy\BE\obj\Debug\BE.dll
+C:\Users\leandro\Desktop\seguirtrabajandoeneste - Copy\BE\obj\Debug\BE.xml
+C:\Users\leandro\Desktop\seguirtrabajandoeneste - Copy\BE\obj\Debug\BE.pdb
+C:\Users\Navegador\Desktop\241012\seguirtrabajandoeneste - Copy\BE\bin\Debug\BE.dll
+C:\Users\Navegador\Desktop\241012\seguirtrabajandoeneste - Copy\BE\bin\Debug\BE.pdb
+C:\Users\Navegador\Desktop\241012\seguirtrabajandoeneste - Copy\BE\bin\Debug\BE.xml
+C:\Users\Navegador\Desktop\241012\seguirtrabajandoeneste - Copy\BE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Navegador\Desktop\241012\seguirtrabajandoeneste - Copy\BE\obj\Debug\BE.Resources.resources
+C:\Users\Navegador\Desktop\241012\seguirtrabajandoeneste - Copy\BE\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Navegador\Desktop\241012\seguirtrabajandoeneste - Copy\BE\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Navegador\Desktop\241012\seguirtrabajandoeneste - Copy\BE\obj\Debug\BE.dll
+C:\Users\Navegador\Desktop\241012\seguirtrabajandoeneste - Copy\BE\obj\Debug\BE.xml
+C:\Users\Navegador\Desktop\241012\seguirtrabajandoeneste - Copy\BE\obj\Debug\BE.pdb
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\BE\bin\Debug\BE.dll
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\BE\bin\Debug\BE.pdb
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\BE\bin\Debug\BE.xml
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\BE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\BE\obj\Debug\BE.Resources.resources
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\BE\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\BE\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\BE\obj\Debug\BE.dll
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\BE\obj\Debug\BE.xml
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\BE\obj\Debug\BE.pdb
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\BE\bin\Debug\BE.dll
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\BE\bin\Debug\BE.pdb
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\BE\bin\Debug\BE.xml
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\BE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\BE\obj\Debug\BE.Resources.resources
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\BE\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\BE\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\BE\obj\Debug\BE.dll
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\BE\obj\Debug\BE.xml
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\BE\obj\Debug\BE.pdb
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\BE\bin\Debug\BE.dll
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\BE\bin\Debug\BE.pdb
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\BE\bin\Debug\BE.xml
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\BE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\BE\obj\Debug\BE.Resources.resources
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\BE\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\BE\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\BE\obj\Debug\BE.dll
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\BE\obj\Debug\BE.xml
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\BE\obj\Debug\BE.pdb
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\BE\bin\Debug\BE.dll
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\BE\bin\Debug\BE.pdb
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\BE\bin\Debug\BE.xml
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\BE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\BE\obj\Debug\BE.Resources.resources
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\BE\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\BE\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\BE\obj\Debug\BE.dll
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\BE\obj\Debug\BE.xml
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\BE\obj\Debug\BE.pdb
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\BE\bin\Debug\BE.dll
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\BE\bin\Debug\BE.pdb
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\BE\bin\Debug\BE.xml
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\BE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\BE\obj\Debug\BE.Resources.resources
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\BE\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\BE\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\BE\obj\Debug\BE.dll
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\BE\obj\Debug\BE.xml
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\BE\obj\Debug\BE.pdb
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\BE\bin\Debug\BE.dll
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\BE\bin\Debug\BE.pdb
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\BE\bin\Debug\BE.xml
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\BE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\BE\obj\Debug\BE.Resources.resources
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\BE\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\BE\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\BE\obj\Debug\BE.dll
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\BE\obj\Debug\BE.xml
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\BE\obj\Debug\BE.pdb
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\BE\bin\Debug\BE.dll
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\BE\bin\Debug\BE.pdb
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\BE\bin\Debug\BE.xml
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\BE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\BE\obj\Debug\BE.Resources.resources
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\BE\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\BE\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\BE\obj\Debug\BE.dll
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\BE\obj\Debug\BE.xml
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\BE\obj\Debug\BE.pdb
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\BE\bin\Debug\BE.dll
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\BE\bin\Debug\BE.pdb
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\BE\bin\Debug\BE.xml
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\BE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\BE\obj\Debug\BE.Resources.resources
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\BE\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\BE\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\BE\obj\Debug\BE.dll
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\BE\obj\Debug\BE.xml
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\BE\obj\Debug\BE.pdb
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\BE\bin\Debug\BE.dll
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\BE\bin\Debug\BE.pdb
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\BE\bin\Debug\BE.xml
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\BE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\BE\obj\Debug\BE.Resources.resources
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\BE\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\BE\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\BE\obj\Debug\BE.dll
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\BE\obj\Debug\BE.xml
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\BE\obj\Debug\BE.pdb
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\BE\bin\Debug\BE.dll
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\BE\bin\Debug\BE.pdb
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\BE\bin\Debug\BE.xml
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\BE\obj\Debug\ResolveAssemblyReference.cache
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\BE\obj\Debug\BE.Resources.resources
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\BE\obj\Debug\GenerateResource.read.1.tlog
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\BE\obj\Debug\GenerateResource.write.1.tlog
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\BE\obj\Debug\BE.dll
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\BE\obj\Debug\BE.xml
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\BE\obj\Debug\BE.pdb
+E:\TFI_ContinoLeandro_2012\Codigo\BE\bin\Debug\BE.dll
+E:\TFI_ContinoLeandro_2012\Codigo\BE\bin\Debug\BE.pdb
+E:\TFI_ContinoLeandro_2012\Codigo\BE\bin\Debug\BE.xml
+E:\TFI_ContinoLeandro_2012\Codigo\BE\obj\Debug\ResolveAssemblyReference.cache
+E:\TFI_ContinoLeandro_2012\Codigo\BE\obj\Debug\BE.Resources.resources
+E:\TFI_ContinoLeandro_2012\Codigo\BE\obj\Debug\GenerateResource.read.1.tlog
+E:\TFI_ContinoLeandro_2012\Codigo\BE\obj\Debug\GenerateResource.write.1.tlog
+E:\TFI_ContinoLeandro_2012\Codigo\BE\obj\Debug\BE.dll
+E:\TFI_ContinoLeandro_2012\Codigo\BE\obj\Debug\BE.xml
+E:\TFI_ContinoLeandro_2012\Codigo\BE\obj\Debug\BE.pdb

@@ -1,0 +1,469 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{56CF0E47-CF9E-47C2-AC26-630242856B46}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>UI.My.MyApplication</StartupObject>
+    <RootNamespace>UI</RootNamespace>
+    <AssemblyName>UI</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\leandro\Desktop\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>UI.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>UI.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>B0D1EBF77C7F4B134723AB918ED6AD90F46B715B</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>UI_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.SqlServer.ConnectionInfo, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\..\..\Program Files\Microsoft SQL Server\100\SDK\Assemblies\Microsoft.SqlServer.ConnectionInfo.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.ConnectionInfoExtended, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\..\..\Program Files\Microsoft SQL Server\100\SDK\Assemblies\Microsoft.SqlServer.ConnectionInfoExtended.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Management.Sdk.Sfc, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\..\..\Program Files\Microsoft SQL Server\100\SDK\Assemblies\Microsoft.SqlServer.Management.Sdk.Sfc.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Smo, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\..\..\Program Files\Microsoft SQL Server\100\SDK\Assemblies\Microsoft.SqlServer.Smo.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.SmoExtended, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\..\..\Program Files\Microsoft SQL Server\100\SDK\Assemblies\Microsoft.SqlServer.SmoExtended.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.SqlEnum, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\..\..\Program Files\Microsoft SQL Server\100\SDK\Assemblies\Microsoft.SqlServer.SqlEnum.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Synchronization, Version=1.0.0.0" />
+    <Reference Include="Microsoft.Synchronization.Data, Version=2.0.0.0" />
+    <Reference Include="Microsoft.Synchronization.Data.Server, Version=2.0.0.0" />
+    <Reference Include="Microsoft.Synchronization.Data.SqlServerCe, Version=2.0.0.0" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="RepLibros.Designer.vb">
+      <DependentUpon>RepLibros.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RepLibros.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EdicionesDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>EdicionesDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Negocio\frmVendedor.Designer.vb">
+      <DependentUpon>frmVendedor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Negocio\frmVendedor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Negocio\frmVenta.Designer.vb">
+      <DependentUpon>frmVenta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Negocio\frmVenta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RepClientes.Designer.vb">
+      <DependentUpon>RepClientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RepClientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RepClientes2.Designer.vb">
+      <DependentUpon>RepClientes2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RepClientes2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Seguridad\FrmBackup.Designer.vb">
+      <DependentUpon>FrmBackup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Seguridad\FrmBackup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Seguridad\frmBitacora.Designer.vb">
+      <DependentUpon>frmBitacora.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Seguridad\frmBitacora.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Negocio\frmCliente.Designer.vb">
+      <DependentUpon>frmCliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Negocio\frmCliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Seguridad\frmPat-Fam.Designer.vb">
+      <DependentUpon>frmPat-Fam.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Seguridad\frmPat-Fam.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmlogin.Designer.vb">
+      <DependentUpon>frmlogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmlogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrincipal.Designer.vb">
+      <DependentUpon>frmPrincipal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrincipal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Negocio\frmLibro.Designer.vb">
+      <DependentUpon>frmLibro.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Negocio\frmLibro.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Seguridad\frmRestore.Designer.vb">
+      <DependentUpon>frmRestore.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Seguridad\frmRestore.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Seguridad\frmUsuPat.Designer.vb">
+      <DependentUpon>frmUsuPat.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Seguridad\frmUsuPat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Seguridad\frmUsuario.Designer.vb">
+      <DependentUpon>frmUsuario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Seguridad\frmUsuario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RepBitacora.Designer.vb">
+      <DependentUpon>RepBitacora.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RepBitacora.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resources\Espanol.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Espanol.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\idioma.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>idioma.resx</DependentUpon>
+    </Compile>
+    <Compile Include="SQLLOGIN.Designer.vb">
+      <DependentUpon>SQLLOGIN.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SQLLOGIN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="RepVentas.rdlc" />
+    <EmbeddedResource Include="RepLibros.resx">
+      <DependentUpon>RepLibros.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Negocio\frmVenta.resx">
+      <DependentUpon>frmVenta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RepClientes.resx">
+      <DependentUpon>RepClientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RepClientes2.rdlc" />
+    <EmbeddedResource Include="RepClientes2.resx">
+      <DependentUpon>RepClientes2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RepLibros.rdlc" />
+    <EmbeddedResource Include="Seguridad\FrmBackup.resx">
+      <DependentUpon>FrmBackup.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Seguridad\frmBitacora.resx">
+      <DependentUpon>frmBitacora.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Negocio\frmCliente.resx">
+      <DependentUpon>frmCliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Negocio\frmLibro.resx">
+      <DependentUpon>frmLibro.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmlogin.resx">
+      <DependentUpon>frmlogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrincipal.resx">
+      <DependentUpon>frmPrincipal.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Seguridad\frmPat-Fam.resx">
+      <DependentUpon>frmPat-Fam.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Seguridad\frmRestore.resx">
+      <DependentUpon>frmRestore.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Seguridad\frmUsuPat.resx">
+      <DependentUpon>frmUsuPat.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Seguridad\frmUsuario.resx">
+      <DependentUpon>frmUsuario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RepBitacora.rdlc">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RepBitacora.resx">
+      <DependentUpon>RepBitacora.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RepClientes.rdlc">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Espanol.resx">
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Espanol.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\idioma.resx">
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>idioma.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SQLLOGIN.resx">
+      <DependentUpon>SQLLOGIN.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ClassDiagram1.cd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="EdicionesDataSet.xsc">
+      <DependentUpon>EdicionesDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="EdicionesDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>EdicionesDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="EdicionesDataSet.xss">
+      <DependentUpon>EdicionesDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BE\BE.vbproj">
+      <Project>{F1029D77-FF3F-49B9-BB4B-46E7A81702FA}</Project>
+      <Name>BE</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BLL.EdicionesFuturo\BLL.vbproj">
+      <Project>{A528A5C1-0779-4DDC-B886-A16E3933CA63}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono_Bitacora.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bitacora.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\usuarios.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\usuarios1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\desbloqeo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\desbloqeo1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\alta.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pat-Fam.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\English.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Users.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="SQLDMO">
+      <Guid>{10010001-E260-11CF-AE68-00AA004A34D5}</Guid>
+      <VersionMajor>8</VersionMajor>
+      <VersionMinor>5</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Backup_Icon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Backup&amp;Restore.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.SQL.Server.Compact.3.5">
+      <Visible>False</Visible>
+      <ProductName>SQL Server Compact 3.5 SP2</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Backup.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Restore.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

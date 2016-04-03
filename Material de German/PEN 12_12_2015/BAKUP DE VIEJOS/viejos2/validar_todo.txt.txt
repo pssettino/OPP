@@ -1,0 +1,22 @@
+Private Shared worker As System.ComponentModel.BackgroundWorker
+
+    Private Shared workerIntegridad As System.ComponentModel.BackgroundWorker
+
+
+ progressLogin.Show()
+        btnIngresar.Hide()
+
+        If (worker Is Nothing) Then
+            worker = New System.ComponentModel.BackgroundWorker()
+            AddHandler worker.DoWork, AddressOf workLogin
+            worker.WorkerSupportsCancellation = True
+        End If
+        worker.RunWorkerAsync({nickname, password})
+
+        If (timerDeMensajes Is Nothing) Then
+            timerDeMensajes = New System.Timers.Timer(100)
+            timerDeMensajes.AutoReset = True
+            timerDeMensajes.Enabled = True
+        Else
+            timerDeMensajes.Start()
+        End If

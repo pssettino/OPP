@@ -1,0 +1,743 @@
+C:\Users\leandro\Desktop\OYPP2012\BKP ENtrega final\ContinoLeandro_2012\VB\EdicionesFuturo\EdicionesFuturo2012\bin\Debug\UI.exe
+C:\Users\leandro\Desktop\OYPP2012\BKP ENtrega final\ContinoLeandro_2012\VB\EdicionesFuturo\EdicionesFuturo2012\bin\Debug\UI.pdb
+C:\Users\leandro\Desktop\OYPP2012\BKP ENtrega final\ContinoLeandro_2012\VB\EdicionesFuturo\EdicionesFuturo2012\bin\Debug\UI.xml
+C:\Users\leandro\Desktop\OYPP2012\BKP ENtrega final\ContinoLeandro_2012\VB\EdicionesFuturo\EdicionesFuturo2012\bin\Debug\BE.dll
+C:\Users\leandro\Desktop\OYPP2012\BKP ENtrega final\ContinoLeandro_2012\VB\EdicionesFuturo\EdicionesFuturo2012\bin\Debug\DAL.dll
+C:\Users\leandro\Desktop\OYPP2012\BKP ENtrega final\ContinoLeandro_2012\VB\EdicionesFuturo\EdicionesFuturo2012\bin\Debug\BE.pdb
+C:\Users\leandro\Desktop\OYPP2012\BKP ENtrega final\ContinoLeandro_2012\VB\EdicionesFuturo\EdicionesFuturo2012\bin\Debug\BE.xml
+C:\Users\leandro\Desktop\OYPP2012\BKP ENtrega final\ContinoLeandro_2012\VB\EdicionesFuturo\EdicionesFuturo2012\bin\Debug\DAL.pdb
+C:\Users\leandro\Desktop\OYPP2012\BKP ENtrega final\ContinoLeandro_2012\VB\EdicionesFuturo\EdicionesFuturo2012\bin\Debug\DAL.xml
+C:\Users\leandro\Desktop\OYPP2012\BKP ENtrega final\ContinoLeandro_2012\VB\EdicionesFuturo\EdicionesFuturo2012\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\leandro\Desktop\OYPP2012\BKP ENtrega final\ContinoLeandro_2012\VB\EdicionesFuturo\EdicionesFuturo2012\obj\x86\Debug\UI.frmBitacora.resources
+C:\Users\leandro\Desktop\OYPP2012\BKP ENtrega final\ContinoLeandro_2012\VB\EdicionesFuturo\EdicionesFuturo2012\obj\x86\Debug\UI.frmCliente.resources
+C:\Users\leandro\Desktop\OYPP2012\BKP ENtrega final\ContinoLeandro_2012\VB\EdicionesFuturo\EdicionesFuturo2012\obj\x86\Debug\UI.frmLibro.resources
+C:\Users\leandro\Desktop\OYPP2012\BKP ENtrega final\ContinoLeandro_2012\VB\EdicionesFuturo\EdicionesFuturo2012\obj\x86\Debug\UI.frmlogin.resources
+C:\Users\leandro\Desktop\OYPP2012\BKP ENtrega final\ContinoLeandro_2012\VB\EdicionesFuturo\EdicionesFuturo2012\obj\x86\Debug\UI.frmPrincipal.resources
+C:\Users\leandro\Desktop\OYPP2012\BKP ENtrega final\ContinoLeandro_2012\VB\EdicionesFuturo\EdicionesFuturo2012\obj\x86\Debug\UI.Resources.resources
+C:\Users\leandro\Desktop\OYPP2012\BKP ENtrega final\ContinoLeandro_2012\VB\EdicionesFuturo\EdicionesFuturo2012\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\leandro\Desktop\OYPP2012\BKP ENtrega final\ContinoLeandro_2012\VB\EdicionesFuturo\EdicionesFuturo2012\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\leandro\Desktop\OYPP2012\BKP ENtrega final\ContinoLeandro_2012\VB\EdicionesFuturo\EdicionesFuturo2012\obj\x86\Debug\UI.exe
+C:\Users\leandro\Desktop\OYPP2012\BKP ENtrega final\ContinoLeandro_2012\VB\EdicionesFuturo\EdicionesFuturo2012\obj\x86\Debug\UI.xml
+C:\Users\leandro\Desktop\OYPP2012\BKP ENtrega final\ContinoLeandro_2012\VB\EdicionesFuturo\EdicionesFuturo2012\obj\x86\Debug\UI.pdb
+C:\Users\leandro\Desktop\OYPP2012\BKP ENtrega final\ContinoLeandro_2012\VB\EdicionesFuturo\EdicionesFuturo2012\bin\Debug\BLL.dll
+C:\Users\leandro\Desktop\OYPP2012\BKP ENtrega final\ContinoLeandro_2012\VB\EdicionesFuturo\EdicionesFuturo2012\bin\Debug\BLL.pdb
+C:\Users\leandro\Desktop\OYPP2012\BKP ENtrega final\ContinoLeandro_2012\VB\EdicionesFuturo\EdicionesFuturo2012\bin\Debug\BLL.xml
+C:\Users\leandro\Desktop\OYPP2012\BKP ENtrega final\ContinoLeandro_2012\VB\EdicionesFuturo\EdicionesFuturo2012\obj\x86\Debug\UI.frmUsuario.resources
+C:\Users\leandro\Desktop\OYPP2012\BKP ENtrega final\ContinoLeandro_2012\VB\EdicionesFuturo\EdicionesFuturo2012\obj\x86\Debug\UI.frmFamPat.resources
+C:\Users\leandro\Desktop\OYPP2012\BKP ENtrega final\ContinoLeandro_2012\VB\EdicionesFuturo\EdicionesFuturo2012\obj\x86\Debug\UI.frmUsuFam.resources
+C:\Users\leandro\Desktop\OYPP2012\BKP ENtrega final\ContinoLeandro_2012\VB\EdicionesFuturo\EdicionesFuturo2012\obj\x86\Debug\UI.frmUsuPat.resources
+C:\Users\leandro\Desktop\OYPP2012\BKP ENtrega final\ContinoLeandro_2012\VB\EdicionesFuturo\EdicionesFuturo2012\obj\x86\Debug\UI.idioma.resources
+C:\Users\leandro\Desktop\OYPP2012\BKP ENtrega final\ContinoLeandro_2012\VB\EdicionesFuturo\EdicionesFuturo2012\obj\x86\Debug\UI.frmBkpandRstvb.resources
+C:\Users\leandro\Desktop\bkp101012\EdicionesFuturo2012\obj\x86\Debug\UI.exe
+C:\Users\leandro\Desktop\bkp101012\EdicionesFuturo2012\obj\x86\Debug\UI.xml
+C:\Users\leandro\Desktop\bkp101012\EdicionesFuturo2012\obj\x86\Debug\UI.pdb
+C:\Users\leandro\Desktop\bkp101012\EdicionesFuturo2012\bin\Debug\UI.exe
+C:\Users\leandro\Desktop\bkp101012\EdicionesFuturo2012\bin\Debug\UI.pdb
+C:\Users\leandro\Desktop\bkp101012\EdicionesFuturo2012\bin\Debug\UI.xml
+C:\Users\leandro\Desktop\bkp101012\EdicionesFuturo2012\bin\Debug\BE.dll
+C:\Users\leandro\Desktop\bkp101012\EdicionesFuturo2012\bin\Debug\BLL.dll
+C:\Users\leandro\Desktop\bkp101012\EdicionesFuturo2012\bin\Debug\DAL.dll
+C:\Users\leandro\Desktop\bkp101012\EdicionesFuturo2012\bin\Debug\BE.pdb
+C:\Users\leandro\Desktop\bkp101012\EdicionesFuturo2012\bin\Debug\BE.xml
+C:\Users\leandro\Desktop\bkp101012\EdicionesFuturo2012\bin\Debug\BLL.pdb
+C:\Users\leandro\Desktop\bkp101012\EdicionesFuturo2012\bin\Debug\BLL.xml
+C:\Users\leandro\Desktop\bkp101012\EdicionesFuturo2012\bin\Debug\DAL.pdb
+C:\Users\leandro\Desktop\bkp101012\EdicionesFuturo2012\bin\Debug\DAL.xml
+C:\Users\leandro\Desktop\bkp101012\EdicionesFuturo2012\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\leandro\Desktop\bkp101012\EdicionesFuturo2012\obj\x86\Debug\UI.frmBitacora.resources
+C:\Users\leandro\Desktop\bkp101012\EdicionesFuturo2012\obj\x86\Debug\UI.frmBkpandRstvb.resources
+C:\Users\leandro\Desktop\bkp101012\EdicionesFuturo2012\obj\x86\Debug\UI.frmCliente.resources
+C:\Users\leandro\Desktop\bkp101012\EdicionesFuturo2012\obj\x86\Debug\UI.frmFamPat.resources
+C:\Users\leandro\Desktop\bkp101012\EdicionesFuturo2012\obj\x86\Debug\UI.frmLibro.resources
+C:\Users\leandro\Desktop\bkp101012\EdicionesFuturo2012\obj\x86\Debug\UI.frmlogin.resources
+C:\Users\leandro\Desktop\bkp101012\EdicionesFuturo2012\obj\x86\Debug\UI.frmPrincipal.resources
+C:\Users\leandro\Desktop\bkp101012\EdicionesFuturo2012\obj\x86\Debug\UI.frmUsuFam.resources
+C:\Users\leandro\Desktop\bkp101012\EdicionesFuturo2012\obj\x86\Debug\UI.frmUsuPat.resources
+C:\Users\leandro\Desktop\bkp101012\EdicionesFuturo2012\obj\x86\Debug\UI.Resources.resources
+C:\Users\leandro\Desktop\bkp101012\EdicionesFuturo2012\obj\x86\Debug\UI.frmUsuario.resources
+C:\Users\leandro\Desktop\bkp101012\EdicionesFuturo2012\obj\x86\Debug\UI.idioma.resources
+C:\Users\leandro\Desktop\bkp101012\EdicionesFuturo2012\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\leandro\Desktop\bkp101012\EdicionesFuturo2012\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\leandro\Desktop\16-10-2012\EdicionesFuturo2012\obj\x86\Debug\UI.exe
+C:\Users\leandro\Desktop\16-10-2012\EdicionesFuturo2012\obj\x86\Debug\UI.xml
+C:\Users\leandro\Desktop\16-10-2012\EdicionesFuturo2012\obj\x86\Debug\UI.pdb
+C:\Users\leandro\Desktop\16-10-2012\EdicionesFuturo2012\bin\Debug\UI.exe
+C:\Users\leandro\Desktop\16-10-2012\EdicionesFuturo2012\bin\Debug\UI.pdb
+C:\Users\leandro\Desktop\16-10-2012\EdicionesFuturo2012\bin\Debug\UI.xml
+C:\Users\leandro\Desktop\16-10-2012\EdicionesFuturo2012\bin\Debug\BE.dll
+C:\Users\leandro\Desktop\16-10-2012\EdicionesFuturo2012\bin\Debug\BLL.dll
+C:\Users\leandro\Desktop\16-10-2012\EdicionesFuturo2012\bin\Debug\DAL.dll
+C:\Users\leandro\Desktop\16-10-2012\EdicionesFuturo2012\bin\Debug\BE.pdb
+C:\Users\leandro\Desktop\16-10-2012\EdicionesFuturo2012\bin\Debug\BE.xml
+C:\Users\leandro\Desktop\16-10-2012\EdicionesFuturo2012\bin\Debug\BLL.pdb
+C:\Users\leandro\Desktop\16-10-2012\EdicionesFuturo2012\bin\Debug\BLL.xml
+C:\Users\leandro\Desktop\16-10-2012\EdicionesFuturo2012\bin\Debug\DAL.pdb
+C:\Users\leandro\Desktop\16-10-2012\EdicionesFuturo2012\bin\Debug\DAL.xml
+C:\Users\leandro\Desktop\16-10-2012\EdicionesFuturo2012\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\leandro\Desktop\16-10-2012\EdicionesFuturo2012\obj\x86\Debug\UI.frmBitacora.resources
+C:\Users\leandro\Desktop\16-10-2012\EdicionesFuturo2012\obj\x86\Debug\UI.frmCliente.resources
+C:\Users\leandro\Desktop\16-10-2012\EdicionesFuturo2012\obj\x86\Debug\UI.frmFamPat.resources
+C:\Users\leandro\Desktop\16-10-2012\EdicionesFuturo2012\obj\x86\Debug\UI.frmLibro.resources
+C:\Users\leandro\Desktop\16-10-2012\EdicionesFuturo2012\obj\x86\Debug\UI.frmlogin.resources
+C:\Users\leandro\Desktop\16-10-2012\EdicionesFuturo2012\obj\x86\Debug\UI.frmPrincipal.resources
+C:\Users\leandro\Desktop\16-10-2012\EdicionesFuturo2012\obj\x86\Debug\UI.frmUsuFam.resources
+C:\Users\leandro\Desktop\16-10-2012\EdicionesFuturo2012\obj\x86\Debug\UI.frmUsuPat.resources
+C:\Users\leandro\Desktop\16-10-2012\EdicionesFuturo2012\obj\x86\Debug\UI.Resources.resources
+C:\Users\leandro\Desktop\16-10-2012\EdicionesFuturo2012\obj\x86\Debug\UI.frmUsuario.resources
+C:\Users\leandro\Desktop\16-10-2012\EdicionesFuturo2012\obj\x86\Debug\UI.idioma.resources
+C:\Users\leandro\Desktop\16-10-2012\EdicionesFuturo2012\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\leandro\Desktop\16-10-2012\EdicionesFuturo2012\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\leandro\Desktop\16-10-2012\EdicionesFuturo2012\obj\x86\Debug\UI.Espanol.resources
+C:\Users\leandro\Desktop\16-10-2012\EdicionesFuturo2012\obj\x86\Debug\Interop.SQLDMO.dll
+C:\Users\leandro\Desktop\16-10-2012\EdicionesFuturo2012\obj\x86\Debug\UI.vbproj.ResolveComReference.cache
+C:\Users\leandro\Desktop\16-10-2012\EdicionesFuturo2012\obj\x86\Debug\UI.BkpandRestorevb.resources
+C:\Users\leandro\Desktop\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\Interop.SQLDMO.dll
+C:\Users\leandro\Desktop\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.vbproj.ResolveComReference.cache
+C:\Users\leandro\Desktop\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.exe
+C:\Users\leandro\Desktop\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.xml
+C:\Users\leandro\Desktop\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.pdb
+C:\Users\leandro\Desktop\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.exe
+C:\Users\leandro\Desktop\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.pdb
+C:\Users\leandro\Desktop\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.xml
+C:\Users\leandro\Desktop\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BE.dll
+C:\Users\leandro\Desktop\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BLL.dll
+C:\Users\leandro\Desktop\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\DAL.dll
+C:\Users\leandro\Desktop\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BE.pdb
+C:\Users\leandro\Desktop\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BE.xml
+C:\Users\leandro\Desktop\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BLL.pdb
+C:\Users\leandro\Desktop\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BLL.xml
+C:\Users\leandro\Desktop\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\DAL.pdb
+C:\Users\leandro\Desktop\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\DAL.xml
+C:\Users\leandro\Desktop\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\leandro\Desktop\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.BkpandRestorevb.resources
+C:\Users\leandro\Desktop\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmBitacora.resources
+C:\Users\leandro\Desktop\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmCliente.resources
+C:\Users\leandro\Desktop\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmFamPat.resources
+C:\Users\leandro\Desktop\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmLibro.resources
+C:\Users\leandro\Desktop\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmlogin.resources
+C:\Users\leandro\Desktop\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmPrincipal.resources
+C:\Users\leandro\Desktop\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmUsuFam.resources
+C:\Users\leandro\Desktop\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmUsuPat.resources
+C:\Users\leandro\Desktop\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.Resources.resources
+C:\Users\leandro\Desktop\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmUsuario.resources
+C:\Users\leandro\Desktop\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.Espanol.resources
+C:\Users\leandro\Desktop\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.idioma.resources
+C:\Users\leandro\Desktop\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\leandro\Desktop\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\leandro\Desktop\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.exe.config
+C:\Users\leandro\Desktop\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\RdlCompile.cache
+C:\Users\leandro\Desktop\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\RdlCompile.compiled
+C:\Users\leandro\Desktop\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.RepCliente.resources
+C:\Users\Navegador\Desktop\241012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.exe.config
+C:\Users\Navegador\Desktop\241012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.vbproj.ResolveComReference.cache
+C:\Users\Navegador\Desktop\241012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.exe
+C:\Users\Navegador\Desktop\241012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.xml
+C:\Users\Navegador\Desktop\241012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.pdb
+C:\Users\Navegador\Desktop\241012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Navegador\Desktop\241012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.BkpandRestorevb.resources
+C:\Users\Navegador\Desktop\241012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmBitacora.resources
+C:\Users\Navegador\Desktop\241012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmCliente.resources
+C:\Users\Navegador\Desktop\241012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmFamPat.resources
+C:\Users\Navegador\Desktop\241012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmLibro.resources
+C:\Users\Navegador\Desktop\241012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmlogin.resources
+C:\Users\Navegador\Desktop\241012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmPrincipal.resources
+C:\Users\Navegador\Desktop\241012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmUsuPat.resources
+C:\Users\Navegador\Desktop\241012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.Resources.resources
+C:\Users\Navegador\Desktop\241012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmUsuario.resources
+C:\Users\Navegador\Desktop\241012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.RepCliente.resources
+C:\Users\Navegador\Desktop\241012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.Espanol.resources
+C:\Users\Navegador\Desktop\241012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.idioma.resources
+C:\Users\Navegador\Desktop\241012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Navegador\Desktop\241012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Navegador\Desktop\241012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\RdlCompile.cache
+C:\Users\Navegador\Desktop\241012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Navegador\Desktop\241012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.exe
+C:\Users\Navegador\Desktop\241012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.pdb
+C:\Users\Navegador\Desktop\241012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.xml
+C:\Users\Navegador\Desktop\241012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BE.dll
+C:\Users\Navegador\Desktop\241012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BLL.dll
+C:\Users\Navegador\Desktop\241012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\DAL.dll
+C:\Users\Navegador\Desktop\241012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BE.pdb
+C:\Users\Navegador\Desktop\241012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BE.xml
+C:\Users\Navegador\Desktop\241012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BLL.pdb
+C:\Users\Navegador\Desktop\241012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BLL.xml
+C:\Users\Navegador\Desktop\241012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\DAL.pdb
+C:\Users\Navegador\Desktop\241012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\DAL.xml
+C:\Users\Navegador\Desktop\241012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmPatFam.resources
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.exe.config
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\Interop.SQLDMO.dll
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.vbproj.ResolveComReference.cache
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.exe
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.xml
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.pdb
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.exe
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.pdb
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.xml
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BE.dll
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BLL.dll
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\DAL.dll
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BE.pdb
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BE.xml
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BLL.pdb
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BLL.xml
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\DAL.pdb
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\DAL.xml
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.BkpandRestorevb.resources
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmBitacora.resources
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmCliente.resources
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmFamPat.resources
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmLibro.resources
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmlogin.resources
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmPrincipal.resources
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmPatFam.resources
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmUsuPat.resources
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.Resources.resources
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmUsuario.resources
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.RepCliente.resources
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.Espanol.resources
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.idioma.resources
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\RdlCompile.cache
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\RdlCompile.compiled
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.FrmBackup.resources
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmRestore.resources
+C:\Users\leandro\Desktop\Ok 27-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.exe.config
+C:\Users\leandro\Desktop\Ok 27-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\Interop.SQLDMO.dll
+C:\Users\leandro\Desktop\Ok 27-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.vbproj.ResolveComReference.cache
+C:\Users\leandro\Desktop\Ok 27-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.exe
+C:\Users\leandro\Desktop\Ok 27-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.xml
+C:\Users\leandro\Desktop\Ok 27-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.pdb
+C:\Users\leandro\Desktop\Ok 27-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\leandro\Desktop\Ok 27-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.BkpandRestorevb.resources
+C:\Users\leandro\Desktop\Ok 27-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.FrmBackup.resources
+C:\Users\leandro\Desktop\Ok 27-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmBitacora.resources
+C:\Users\leandro\Desktop\Ok 27-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmCliente.resources
+C:\Users\leandro\Desktop\Ok 27-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmFamPat.resources
+C:\Users\leandro\Desktop\Ok 27-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmLibro.resources
+C:\Users\leandro\Desktop\Ok 27-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmlogin.resources
+C:\Users\leandro\Desktop\Ok 27-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmPrincipal.resources
+C:\Users\leandro\Desktop\Ok 27-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmPatFam.resources
+C:\Users\leandro\Desktop\Ok 27-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmRestore.resources
+C:\Users\leandro\Desktop\Ok 27-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmUsuPat.resources
+C:\Users\leandro\Desktop\Ok 27-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.Resources.resources
+C:\Users\leandro\Desktop\Ok 27-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmUsuario.resources
+C:\Users\leandro\Desktop\Ok 27-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.Espanol.resources
+C:\Users\leandro\Desktop\Ok 27-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.idioma.resources
+C:\Users\leandro\Desktop\Ok 27-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\leandro\Desktop\Ok 27-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\leandro\Desktop\Ok 27-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.exe
+C:\Users\leandro\Desktop\Ok 27-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.pdb
+C:\Users\leandro\Desktop\Ok 27-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.xml
+C:\Users\leandro\Desktop\Ok 27-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BE.dll
+C:\Users\leandro\Desktop\Ok 27-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BLL.dll
+C:\Users\leandro\Desktop\Ok 27-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\DAL.dll
+C:\Users\leandro\Desktop\Ok 27-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BE.pdb
+C:\Users\leandro\Desktop\Ok 27-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BE.xml
+C:\Users\leandro\Desktop\Ok 27-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BLL.pdb
+C:\Users\leandro\Desktop\Ok 27-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BLL.xml
+C:\Users\leandro\Desktop\Ok 27-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\DAL.pdb
+C:\Users\leandro\Desktop\Ok 27-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\DAL.xml
+C:\Users\leandro\Desktop\Ok 27-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\RdlCompile.cache
+C:\Users\leandro\Desktop\Ok 27-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\RdlCompile.compiled
+C:\Users\leandro\Desktop\Ok 27-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.Form1.resources
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.exe.config
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.exe
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.pdb
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.xml
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BE.dll
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BLL.dll
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\DAL.dll
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BE.pdb
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BE.xml
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BLL.pdb
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BLL.xml
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\DAL.pdb
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\DAL.xml
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\Interop.SQLDMO.dll
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.vbproj.ResolveComReference.cache
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.FrmBackup.resources
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmBitacora.resources
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmCliente.resources
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmLibro.resources
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmlogin.resources
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmPrincipal.resources
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmPatFam.resources
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmRestore.resources
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmUsuPat.resources
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.Resources.resources
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmUsuario.resources
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.Espanol.resources
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.idioma.resources
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\RdlCompile.cache
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\RdlCompile.compiled
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.exe
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.xml
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.pdb
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.RepBitacora.resources
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.RepClientes.resources
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmVenta.resources
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.exe.manifest
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.application
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.exe.manifest
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.application
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.UISQLConfig.resources
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.RepClientes2.resources
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.exe.config
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\Interop.SQLDMO.dll
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.vbproj.ResolveComReference.cache
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.exe
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.xml
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.pdb
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.exe.manifest
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.application
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.exe
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.pdb
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.xml
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BE.dll
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BLL.dll
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\DAL.dll
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BE.pdb
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BE.xml
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BLL.pdb
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BLL.xml
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\DAL.pdb
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\DAL.xml
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmVenta.resources
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.RepClientes.resources
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.RepClientes2.resources
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.FrmBackup.resources
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmBitacora.resources
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmCliente.resources
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmLibro.resources
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmlogin.resources
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmPrincipal.resources
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmPatFam.resources
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmRestore.resources
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmUsuPat.resources
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.Resources.resources
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmUsuario.resources
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.RepBitacora.resources
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.Espanol.resources
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.idioma.resources
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.UISQLConfig.resources
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\RdlCompile.cache
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\RdlCompile.compiled
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.exe.manifest
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.application
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.exe.config
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\Interop.SQLDMO.dll
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.vbproj.ResolveComReference.cache
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.exe
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.xml
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.pdb
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.exe.manifest
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.application
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.exe
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.pdb
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.xml
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BE.dll
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BLL.dll
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\DAL.dll
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BE.pdb
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BE.xml
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BLL.pdb
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BLL.xml
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\DAL.pdb
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\DAL.xml
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmVenta.resources
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.RepClientes.resources
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.RepClientes2.resources
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.FrmBackup.resources
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmBitacora.resources
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmCliente.resources
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmLibro.resources
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmlogin.resources
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmPrincipal.resources
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmPatFam.resources
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmRestore.resources
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmUsuPat.resources
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.Resources.resources
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmUsuario.resources
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.RepBitacora.resources
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.Espanol.resources
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.idioma.resources
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.UISQLConfig.resources
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\RdlCompile.cache
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\RdlCompile.compiled
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.exe.manifest
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.application
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\Interop.SQLDMO.dll
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.vbproj.ResolveComReference.cache
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmVenta.resources
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.RepClientes.resources
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.RepClientes2.resources
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.FrmBackup.resources
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmBitacora.resources
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmCliente.resources
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmLibro.resources
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmlogin.resources
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmPrincipal.resources
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmPatFam.resources
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmRestore.resources
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmUsuPat.resources
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.Resources.resources
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmUsuario.resources
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.RepBitacora.resources
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.Espanol.resources
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.idioma.resources
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.UISQLConfig.resources
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\RdlCompile.cache
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\RdlCompile.compiled
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.exe.config
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.exe.manifest
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.application
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.exe
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.pdb
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.xml
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BE.dll
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BLL.dll
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\DAL.dll
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BE.pdb
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BE.xml
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BLL.pdb
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BLL.xml
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\DAL.pdb
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\DAL.xml
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.exe.manifest
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.application
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.exe
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.xml
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.pdb
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.exe.config
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\Interop.SQLDMO.dll
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.vbproj.ResolveComReference.cache
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.exe
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.xml
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.pdb
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.exe.manifest
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.application
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.exe
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.pdb
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.xml
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BE.dll
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BLL.dll
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\DAL.dll
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BE.pdb
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BE.xml
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BLL.pdb
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BLL.xml
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\DAL.pdb
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\DAL.xml
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmVenta.resources
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.RepClientes.resources
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.RepClientes2.resources
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.FrmBackup.resources
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmBitacora.resources
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmCliente.resources
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmLibro.resources
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmlogin.resources
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmPrincipal.resources
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmPatFam.resources
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmRestore.resources
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmUsuPat.resources
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.Resources.resources
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmUsuario.resources
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.RepBitacora.resources
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.Espanol.resources
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.idioma.resources
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.UISQLConfig.resources
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\RdlCompile.cache
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\RdlCompile.compiled
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.exe.manifest
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.application
+C:\Users\leandro\Desktop\Vale 22-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.exe.config
+C:\Users\leandro\Desktop\Vale 22-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\Interop.SQLDMO.dll
+C:\Users\leandro\Desktop\Vale 22-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.vbproj.ResolveComReference.cache
+C:\Users\leandro\Desktop\Vale 22-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.exe
+C:\Users\leandro\Desktop\Vale 22-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.xml
+C:\Users\leandro\Desktop\Vale 22-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.pdb
+C:\Users\leandro\Desktop\Vale 22-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.exe.manifest
+C:\Users\leandro\Desktop\Vale 22-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.application
+C:\Users\leandro\Desktop\Vale 22-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.exe
+C:\Users\leandro\Desktop\Vale 22-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.pdb
+C:\Users\leandro\Desktop\Vale 22-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.xml
+C:\Users\leandro\Desktop\Vale 22-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BE.dll
+C:\Users\leandro\Desktop\Vale 22-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BLL.dll
+C:\Users\leandro\Desktop\Vale 22-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\DAL.dll
+C:\Users\leandro\Desktop\Vale 22-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BE.pdb
+C:\Users\leandro\Desktop\Vale 22-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BE.xml
+C:\Users\leandro\Desktop\Vale 22-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BLL.pdb
+C:\Users\leandro\Desktop\Vale 22-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BLL.xml
+C:\Users\leandro\Desktop\Vale 22-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\DAL.pdb
+C:\Users\leandro\Desktop\Vale 22-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\DAL.xml
+C:\Users\leandro\Desktop\Vale 22-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\leandro\Desktop\Vale 22-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmVenta.resources
+C:\Users\leandro\Desktop\Vale 22-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.RepClientes.resources
+C:\Users\leandro\Desktop\Vale 22-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.RepClientes2.resources
+C:\Users\leandro\Desktop\Vale 22-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.FrmBackup.resources
+C:\Users\leandro\Desktop\Vale 22-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmBitacora.resources
+C:\Users\leandro\Desktop\Vale 22-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmCliente.resources
+C:\Users\leandro\Desktop\Vale 22-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmLibro.resources
+C:\Users\leandro\Desktop\Vale 22-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmlogin.resources
+C:\Users\leandro\Desktop\Vale 22-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmPrincipal.resources
+C:\Users\leandro\Desktop\Vale 22-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmPatFam.resources
+C:\Users\leandro\Desktop\Vale 22-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmRestore.resources
+C:\Users\leandro\Desktop\Vale 22-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmUsuPat.resources
+C:\Users\leandro\Desktop\Vale 22-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.Resources.resources
+C:\Users\leandro\Desktop\Vale 22-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmUsuario.resources
+C:\Users\leandro\Desktop\Vale 22-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.RepBitacora.resources
+C:\Users\leandro\Desktop\Vale 22-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.Espanol.resources
+C:\Users\leandro\Desktop\Vale 22-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.idioma.resources
+C:\Users\leandro\Desktop\Vale 22-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.UISQLConfig.resources
+C:\Users\leandro\Desktop\Vale 22-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\leandro\Desktop\Vale 22-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\leandro\Desktop\Vale 22-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\RdlCompile.cache
+C:\Users\leandro\Desktop\Vale 22-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\RdlCompile.compiled
+C:\Users\leandro\Desktop\Vale 22-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.exe.manifest
+C:\Users\leandro\Desktop\Vale 22-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.application
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.exe.config
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\Interop.SQLDMO.dll
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.vbproj.ResolveComReference.cache
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.exe
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.xml
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.pdb
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.exe.manifest
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.application
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.exe
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.pdb
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.xml
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BE.dll
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BLL.dll
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\DAL.dll
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BE.pdb
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BE.xml
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BLL.pdb
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BLL.xml
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\DAL.pdb
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\DAL.xml
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmVenta.resources
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.RepClientes.resources
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.RepClientes2.resources
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.FrmBackup.resources
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmBitacora.resources
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmCliente.resources
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmLibro.resources
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmlogin.resources
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmPrincipal.resources
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmPatFam.resources
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmRestore.resources
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmUsuPat.resources
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.Resources.resources
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmUsuario.resources
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.RepBitacora.resources
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.Espanol.resources
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.idioma.resources
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.UISQLConfig.resources
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\RdlCompile.cache
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\RdlCompile.compiled
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.exe.manifest
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.application
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.RepLibros.resources
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.exe.config
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\Interop.SQLDMO.dll
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.vbproj.ResolveComReference.cache
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.exe
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.xml
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.pdb
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.exe.manifest
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.application
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.exe
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.pdb
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.xml
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BE.dll
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BLL.dll
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\DAL.dll
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BE.pdb
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BE.xml
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BLL.pdb
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BLL.xml
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\DAL.pdb
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\DAL.xml
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.RepLibros.resources
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmVenta.resources
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.RepClientes.resources
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.RepClientes2.resources
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.FrmBackup.resources
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmBitacora.resources
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmCliente.resources
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmLibro.resources
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmlogin.resources
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmPrincipal.resources
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmPatFam.resources
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmRestore.resources
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmUsuPat.resources
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.Resources.resources
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmUsuario.resources
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.RepBitacora.resources
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.Espanol.resources
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.idioma.resources
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.UISQLConfig.resources
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\RdlCompile.cache
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\RdlCompile.compiled
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.exe.manifest
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.application
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.exe.config
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\Interop.SQLDMO.dll
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.vbproj.ResolveComReference.cache
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.exe
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.xml
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.pdb
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.exe.manifest
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.application
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.exe
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.pdb
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.xml
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BE.dll
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BLL.dll
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\DAL.dll
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BE.pdb
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BE.xml
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BLL.pdb
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BLL.xml
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\DAL.pdb
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\DAL.xml
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.RepLibros.resources
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmVenta.resources
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.RepClientes.resources
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.RepClientes2.resources
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.FrmBackup.resources
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmBitacora.resources
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmCliente.resources
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmLibro.resources
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmlogin.resources
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmPrincipal.resources
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmPatFam.resources
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmRestore.resources
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmUsuPat.resources
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.Resources.resources
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmUsuario.resources
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.RepBitacora.resources
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.Espanol.resources
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.idioma.resources
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.UISQLConfig.resources
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\RdlCompile.cache
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\RdlCompile.compiled
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.exe.manifest
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.application
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.exe.config
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.vbproj.ResolveComReference.cache
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.exe
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.xml
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.pdb
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.exe.manifest
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.application
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.exe
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.pdb
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\UI.xml
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BE.dll
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BLL.dll
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\DAL.dll
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BE.pdb
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BE.xml
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BLL.pdb
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\BLL.xml
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\DAL.pdb
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\bin\Debug\DAL.xml
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.RepLibros.resources
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmVenta.resources
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.RepClientes.resources
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.RepClientes2.resources
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.FrmBackup.resources
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmBitacora.resources
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmCliente.resources
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmLibro.resources
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmlogin.resources
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmPrincipal.resources
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmPatFam.resources
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmRestore.resources
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmUsuPat.resources
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.Resources.resources
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.frmUsuario.resources
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.RepBitacora.resources
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.Espanol.resources
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.idioma.resources
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.UISQLConfig.resources
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\RdlCompile.cache
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\RdlCompile.compiled
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.exe.manifest
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\EdicionesFuturo2012\obj\x86\Debug\UI.application
+E:\TFI_ContinoLeandro_2012\Codigo\EdicionesFuturo2012\bin\Debug\UI.exe.config
+E:\TFI_ContinoLeandro_2012\Codigo\EdicionesFuturo2012\obj\x86\Debug\Interop.SQLDMO.dll
+E:\TFI_ContinoLeandro_2012\Codigo\EdicionesFuturo2012\obj\x86\Debug\UI.vbproj.ResolveComReference.cache
+E:\TFI_ContinoLeandro_2012\Codigo\EdicionesFuturo2012\obj\x86\Debug\UI.exe
+E:\TFI_ContinoLeandro_2012\Codigo\EdicionesFuturo2012\obj\x86\Debug\UI.xml
+E:\TFI_ContinoLeandro_2012\Codigo\EdicionesFuturo2012\obj\x86\Debug\UI.pdb
+E:\TFI_ContinoLeandro_2012\Codigo\EdicionesFuturo2012\bin\Debug\UI.exe.manifest
+E:\TFI_ContinoLeandro_2012\Codigo\EdicionesFuturo2012\bin\Debug\UI.application
+E:\TFI_ContinoLeandro_2012\Codigo\EdicionesFuturo2012\bin\Debug\UI.exe
+E:\TFI_ContinoLeandro_2012\Codigo\EdicionesFuturo2012\bin\Debug\UI.pdb
+E:\TFI_ContinoLeandro_2012\Codigo\EdicionesFuturo2012\bin\Debug\UI.xml
+E:\TFI_ContinoLeandro_2012\Codigo\EdicionesFuturo2012\bin\Debug\BE.dll
+E:\TFI_ContinoLeandro_2012\Codigo\EdicionesFuturo2012\bin\Debug\BLL.dll
+E:\TFI_ContinoLeandro_2012\Codigo\EdicionesFuturo2012\bin\Debug\DAL.dll
+E:\TFI_ContinoLeandro_2012\Codigo\EdicionesFuturo2012\bin\Debug\BE.pdb
+E:\TFI_ContinoLeandro_2012\Codigo\EdicionesFuturo2012\bin\Debug\BE.xml
+E:\TFI_ContinoLeandro_2012\Codigo\EdicionesFuturo2012\bin\Debug\BLL.pdb
+E:\TFI_ContinoLeandro_2012\Codigo\EdicionesFuturo2012\bin\Debug\BLL.xml
+E:\TFI_ContinoLeandro_2012\Codigo\EdicionesFuturo2012\bin\Debug\DAL.pdb
+E:\TFI_ContinoLeandro_2012\Codigo\EdicionesFuturo2012\bin\Debug\DAL.xml
+E:\TFI_ContinoLeandro_2012\Codigo\EdicionesFuturo2012\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\TFI_ContinoLeandro_2012\Codigo\EdicionesFuturo2012\obj\x86\Debug\UI.RepLibros.resources
+E:\TFI_ContinoLeandro_2012\Codigo\EdicionesFuturo2012\obj\x86\Debug\UI.frmVenta.resources
+E:\TFI_ContinoLeandro_2012\Codigo\EdicionesFuturo2012\obj\x86\Debug\UI.RepClientes.resources
+E:\TFI_ContinoLeandro_2012\Codigo\EdicionesFuturo2012\obj\x86\Debug\UI.RepClientes2.resources
+E:\TFI_ContinoLeandro_2012\Codigo\EdicionesFuturo2012\obj\x86\Debug\UI.FrmBackup.resources
+E:\TFI_ContinoLeandro_2012\Codigo\EdicionesFuturo2012\obj\x86\Debug\UI.frmBitacora.resources
+E:\TFI_ContinoLeandro_2012\Codigo\EdicionesFuturo2012\obj\x86\Debug\UI.frmCliente.resources
+E:\TFI_ContinoLeandro_2012\Codigo\EdicionesFuturo2012\obj\x86\Debug\UI.frmLibro.resources
+E:\TFI_ContinoLeandro_2012\Codigo\EdicionesFuturo2012\obj\x86\Debug\UI.frmlogin.resources
+E:\TFI_ContinoLeandro_2012\Codigo\EdicionesFuturo2012\obj\x86\Debug\UI.frmPrincipal.resources
+E:\TFI_ContinoLeandro_2012\Codigo\EdicionesFuturo2012\obj\x86\Debug\UI.frmPatFam.resources
+E:\TFI_ContinoLeandro_2012\Codigo\EdicionesFuturo2012\obj\x86\Debug\UI.frmRestore.resources
+E:\TFI_ContinoLeandro_2012\Codigo\EdicionesFuturo2012\obj\x86\Debug\UI.frmUsuPat.resources
+E:\TFI_ContinoLeandro_2012\Codigo\EdicionesFuturo2012\obj\x86\Debug\UI.Resources.resources
+E:\TFI_ContinoLeandro_2012\Codigo\EdicionesFuturo2012\obj\x86\Debug\UI.frmUsuario.resources
+E:\TFI_ContinoLeandro_2012\Codigo\EdicionesFuturo2012\obj\x86\Debug\UI.RepBitacora.resources
+E:\TFI_ContinoLeandro_2012\Codigo\EdicionesFuturo2012\obj\x86\Debug\UI.Espanol.resources
+E:\TFI_ContinoLeandro_2012\Codigo\EdicionesFuturo2012\obj\x86\Debug\UI.idioma.resources
+E:\TFI_ContinoLeandro_2012\Codigo\EdicionesFuturo2012\obj\x86\Debug\UI.UISQLConfig.resources
+E:\TFI_ContinoLeandro_2012\Codigo\EdicionesFuturo2012\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\TFI_ContinoLeandro_2012\Codigo\EdicionesFuturo2012\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\TFI_ContinoLeandro_2012\Codigo\EdicionesFuturo2012\obj\x86\Debug\RdlCompile.cache
+E:\TFI_ContinoLeandro_2012\Codigo\EdicionesFuturo2012\obj\x86\Debug\RdlCompile.compiled
+E:\TFI_ContinoLeandro_2012\Codigo\EdicionesFuturo2012\obj\x86\Debug\UI.exe.manifest
+E:\TFI_ContinoLeandro_2012\Codigo\EdicionesFuturo2012\obj\x86\Debug\UI.application

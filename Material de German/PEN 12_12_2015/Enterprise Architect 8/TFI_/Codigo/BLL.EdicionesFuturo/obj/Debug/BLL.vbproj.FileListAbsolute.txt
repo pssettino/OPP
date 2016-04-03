@@ -1,0 +1,306 @@
+C:\Users\leandro\Desktop\OYPP2012\BKP ENtrega final\ContinoLeandro_2012\VB\EdicionesFuturo\BLL.EdicionesFuturo\bin\Debug\BE.dll
+C:\Users\leandro\Desktop\OYPP2012\BKP ENtrega final\ContinoLeandro_2012\VB\EdicionesFuturo\BLL.EdicionesFuturo\bin\Debug\DAL.dll
+C:\Users\leandro\Desktop\OYPP2012\BKP ENtrega final\ContinoLeandro_2012\VB\EdicionesFuturo\BLL.EdicionesFuturo\bin\Debug\BE.pdb
+C:\Users\leandro\Desktop\OYPP2012\BKP ENtrega final\ContinoLeandro_2012\VB\EdicionesFuturo\BLL.EdicionesFuturo\bin\Debug\BE.xml
+C:\Users\leandro\Desktop\OYPP2012\BKP ENtrega final\ContinoLeandro_2012\VB\EdicionesFuturo\BLL.EdicionesFuturo\bin\Debug\DAL.pdb
+C:\Users\leandro\Desktop\OYPP2012\BKP ENtrega final\ContinoLeandro_2012\VB\EdicionesFuturo\BLL.EdicionesFuturo\bin\Debug\DAL.xml
+C:\Users\leandro\Desktop\OYPP2012\BKP ENtrega final\ContinoLeandro_2012\VB\EdicionesFuturo\BLL.EdicionesFuturo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\leandro\Desktop\OYPP2012\BKP ENtrega final\ContinoLeandro_2012\VB\EdicionesFuturo\BLL.EdicionesFuturo\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\leandro\Desktop\OYPP2012\BKP ENtrega final\ContinoLeandro_2012\VB\EdicionesFuturo\BLL.EdicionesFuturo\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\leandro\Desktop\OYPP2012\BKP ENtrega final\ContinoLeandro_2012\VB\EdicionesFuturo\BLL.EdicionesFuturo\obj\Debug\BLL.Resources.resources
+C:\Users\leandro\Desktop\OYPP2012\BKP ENtrega final\ContinoLeandro_2012\VB\EdicionesFuturo\BLL.EdicionesFuturo\bin\Debug\BLL.dll.config
+C:\Users\leandro\Desktop\OYPP2012\BKP ENtrega final\ContinoLeandro_2012\VB\EdicionesFuturo\BLL.EdicionesFuturo\bin\Debug\BLL.dll
+C:\Users\leandro\Desktop\OYPP2012\BKP ENtrega final\ContinoLeandro_2012\VB\EdicionesFuturo\BLL.EdicionesFuturo\bin\Debug\BLL.pdb
+C:\Users\leandro\Desktop\OYPP2012\BKP ENtrega final\ContinoLeandro_2012\VB\EdicionesFuturo\BLL.EdicionesFuturo\bin\Debug\BLL.xml
+C:\Users\leandro\Desktop\OYPP2012\BKP ENtrega final\ContinoLeandro_2012\VB\EdicionesFuturo\BLL.EdicionesFuturo\obj\Debug\BLL.dll
+C:\Users\leandro\Desktop\OYPP2012\BKP ENtrega final\ContinoLeandro_2012\VB\EdicionesFuturo\BLL.EdicionesFuturo\obj\Debug\BLL.xml
+C:\Users\leandro\Desktop\OYPP2012\BKP ENtrega final\ContinoLeandro_2012\VB\EdicionesFuturo\BLL.EdicionesFuturo\obj\Debug\BLL.pdb
+C:\Users\leandro\Desktop\bkp101012\BLL.EdicionesFuturo\bin\Debug\BLL.dll.config
+C:\Users\leandro\Desktop\bkp101012\BLL.EdicionesFuturo\bin\Debug\BLL.dll
+C:\Users\leandro\Desktop\bkp101012\BLL.EdicionesFuturo\bin\Debug\BLL.pdb
+C:\Users\leandro\Desktop\bkp101012\BLL.EdicionesFuturo\bin\Debug\BLL.xml
+C:\Users\leandro\Desktop\bkp101012\BLL.EdicionesFuturo\bin\Debug\BE.dll
+C:\Users\leandro\Desktop\bkp101012\BLL.EdicionesFuturo\bin\Debug\DAL.dll
+C:\Users\leandro\Desktop\bkp101012\BLL.EdicionesFuturo\bin\Debug\BE.pdb
+C:\Users\leandro\Desktop\bkp101012\BLL.EdicionesFuturo\bin\Debug\BE.xml
+C:\Users\leandro\Desktop\bkp101012\BLL.EdicionesFuturo\bin\Debug\DAL.pdb
+C:\Users\leandro\Desktop\bkp101012\BLL.EdicionesFuturo\bin\Debug\DAL.xml
+C:\Users\leandro\Desktop\bkp101012\BLL.EdicionesFuturo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\leandro\Desktop\bkp101012\BLL.EdicionesFuturo\obj\Debug\BLL.Resources.resources
+C:\Users\leandro\Desktop\bkp101012\BLL.EdicionesFuturo\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\leandro\Desktop\bkp101012\BLL.EdicionesFuturo\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\leandro\Desktop\bkp101012\BLL.EdicionesFuturo\obj\Debug\BLL.dll
+C:\Users\leandro\Desktop\bkp101012\BLL.EdicionesFuturo\obj\Debug\BLL.xml
+C:\Users\leandro\Desktop\bkp101012\BLL.EdicionesFuturo\obj\Debug\BLL.pdb
+C:\Users\leandro\Desktop\16-10-2012\BLL.EdicionesFuturo\bin\Debug\BLL.dll.config
+C:\Users\leandro\Desktop\16-10-2012\BLL.EdicionesFuturo\bin\Debug\BLL.dll
+C:\Users\leandro\Desktop\16-10-2012\BLL.EdicionesFuturo\bin\Debug\BLL.pdb
+C:\Users\leandro\Desktop\16-10-2012\BLL.EdicionesFuturo\bin\Debug\BLL.xml
+C:\Users\leandro\Desktop\16-10-2012\BLL.EdicionesFuturo\bin\Debug\BE.dll
+C:\Users\leandro\Desktop\16-10-2012\BLL.EdicionesFuturo\bin\Debug\DAL.dll
+C:\Users\leandro\Desktop\16-10-2012\BLL.EdicionesFuturo\bin\Debug\BE.pdb
+C:\Users\leandro\Desktop\16-10-2012\BLL.EdicionesFuturo\bin\Debug\BE.xml
+C:\Users\leandro\Desktop\16-10-2012\BLL.EdicionesFuturo\bin\Debug\DAL.pdb
+C:\Users\leandro\Desktop\16-10-2012\BLL.EdicionesFuturo\bin\Debug\DAL.xml
+C:\Users\leandro\Desktop\16-10-2012\BLL.EdicionesFuturo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\leandro\Desktop\16-10-2012\BLL.EdicionesFuturo\obj\Debug\BLL.Resources.resources
+C:\Users\leandro\Desktop\16-10-2012\BLL.EdicionesFuturo\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\leandro\Desktop\16-10-2012\BLL.EdicionesFuturo\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\leandro\Desktop\16-10-2012\BLL.EdicionesFuturo\obj\Debug\BLL.dll
+C:\Users\leandro\Desktop\16-10-2012\BLL.EdicionesFuturo\obj\Debug\BLL.xml
+C:\Users\leandro\Desktop\16-10-2012\BLL.EdicionesFuturo\obj\Debug\BLL.pdb
+C:\Users\leandro\Desktop\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BLL.dll.config
+C:\Users\leandro\Desktop\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BLL.dll
+C:\Users\leandro\Desktop\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BLL.pdb
+C:\Users\leandro\Desktop\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BLL.xml
+C:\Users\leandro\Desktop\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BE.dll
+C:\Users\leandro\Desktop\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\DAL.dll
+C:\Users\leandro\Desktop\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BE.pdb
+C:\Users\leandro\Desktop\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BE.xml
+C:\Users\leandro\Desktop\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\DAL.pdb
+C:\Users\leandro\Desktop\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\DAL.xml
+C:\Users\leandro\Desktop\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\leandro\Desktop\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\BLL.Resources.resources
+C:\Users\leandro\Desktop\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\leandro\Desktop\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\leandro\Desktop\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\BLL.dll
+C:\Users\leandro\Desktop\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\BLL.xml
+C:\Users\leandro\Desktop\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\BLL.pdb
+C:\Users\Navegador\Desktop\241012\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BLL.dll.config
+C:\Users\Navegador\Desktop\241012\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BLL.dll
+C:\Users\Navegador\Desktop\241012\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BLL.pdb
+C:\Users\Navegador\Desktop\241012\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BLL.xml
+C:\Users\Navegador\Desktop\241012\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BE.dll
+C:\Users\Navegador\Desktop\241012\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\DAL.dll
+C:\Users\Navegador\Desktop\241012\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BE.pdb
+C:\Users\Navegador\Desktop\241012\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BE.xml
+C:\Users\Navegador\Desktop\241012\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\DAL.pdb
+C:\Users\Navegador\Desktop\241012\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\DAL.xml
+C:\Users\Navegador\Desktop\241012\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Navegador\Desktop\241012\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\BLL.Resources.resources
+C:\Users\Navegador\Desktop\241012\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Navegador\Desktop\241012\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Navegador\Desktop\241012\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\BLL.dll
+C:\Users\Navegador\Desktop\241012\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\BLL.xml
+C:\Users\Navegador\Desktop\241012\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\BLL.pdb
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BLL.dll.config
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BLL.dll
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BLL.pdb
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BLL.xml
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BE.dll
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\DAL.dll
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BE.pdb
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BE.xml
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\DAL.pdb
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\DAL.xml
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\BLL.Resources.resources
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\BLL.dll
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\BLL.xml
+C:\Users\leandro\Desktop\251012\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\BLL.pdb
+C:\Users\leandro\Desktop\Ok 27-10\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BLL.dll.config
+C:\Users\leandro\Desktop\Ok 27-10\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BLL.dll
+C:\Users\leandro\Desktop\Ok 27-10\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BLL.pdb
+C:\Users\leandro\Desktop\Ok 27-10\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BLL.xml
+C:\Users\leandro\Desktop\Ok 27-10\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BE.dll
+C:\Users\leandro\Desktop\Ok 27-10\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\DAL.dll
+C:\Users\leandro\Desktop\Ok 27-10\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BE.pdb
+C:\Users\leandro\Desktop\Ok 27-10\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BE.xml
+C:\Users\leandro\Desktop\Ok 27-10\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\DAL.pdb
+C:\Users\leandro\Desktop\Ok 27-10\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\DAL.xml
+C:\Users\leandro\Desktop\Ok 27-10\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\leandro\Desktop\Ok 27-10\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\BLL.Resources.resources
+C:\Users\leandro\Desktop\Ok 27-10\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\leandro\Desktop\Ok 27-10\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\leandro\Desktop\Ok 27-10\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\BLL.dll
+C:\Users\leandro\Desktop\Ok 27-10\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\BLL.xml
+C:\Users\leandro\Desktop\Ok 27-10\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\BLL.pdb
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BLL.dll.config
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BLL.dll
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BLL.pdb
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BLL.xml
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BE.dll
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\DAL.dll
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BE.pdb
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BE.xml
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\DAL.pdb
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\DAL.xml
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\BLL.Resources.resources
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\BLL.dll
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\BLL.xml
+C:\Users\leandro\Desktop\Ok 27-10 - Copy\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\BLL.pdb
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BLL.dll.config
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BLL.dll
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BLL.pdb
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BLL.xml
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BE.dll
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\DAL.dll
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BE.pdb
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BE.xml
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\DAL.pdb
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\DAL.xml
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\BLL.Resources.resources
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\BLL.dll
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\BLL.xml
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\BLL.pdb
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BLL.dll.config
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BLL.dll
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BLL.pdb
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BLL.xml
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BE.dll
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\DAL.dll
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BE.pdb
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BE.xml
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\DAL.pdb
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\DAL.xml
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\BLL.Resources.resources
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\BLL.dll
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\BLL.xml
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 17-11\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\BLL.pdb
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\BLL.Resources.resources
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BLL.dll.config
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BLL.dll
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BLL.pdb
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BLL.xml
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BE.dll
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\DAL.dll
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BE.pdb
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BE.xml
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\DAL.pdb
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\DAL.xml
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\BLL.dll
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\BLL.xml
+C:\Users\leandro\Desktop\ContinoLeandro-TrabajoFinal_Seguir aca 20-10\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\BLL.pdb
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BLL.dll.config
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BLL.dll
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BLL.pdb
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BLL.xml
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BE.dll
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\DAL.dll
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BE.pdb
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BE.xml
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\DAL.pdb
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\DAL.xml
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\BLL.Resources.resources
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\BLL.dll
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\BLL.xml
+C:\Users\leandro\Desktop\antes del cambio de meoto bit vale20-10\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\BLL.pdb
+C:\Users\leandro\Desktop\Vale 22-11-12\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BLL.dll.config
+C:\Users\leandro\Desktop\Vale 22-11-12\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BLL.dll
+C:\Users\leandro\Desktop\Vale 22-11-12\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BLL.pdb
+C:\Users\leandro\Desktop\Vale 22-11-12\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BLL.xml
+C:\Users\leandro\Desktop\Vale 22-11-12\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BE.dll
+C:\Users\leandro\Desktop\Vale 22-11-12\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\DAL.dll
+C:\Users\leandro\Desktop\Vale 22-11-12\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BE.pdb
+C:\Users\leandro\Desktop\Vale 22-11-12\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BE.xml
+C:\Users\leandro\Desktop\Vale 22-11-12\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\DAL.pdb
+C:\Users\leandro\Desktop\Vale 22-11-12\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\DAL.xml
+C:\Users\leandro\Desktop\Vale 22-11-12\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\leandro\Desktop\Vale 22-11-12\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\BLL.Resources.resources
+C:\Users\leandro\Desktop\Vale 22-11-12\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\leandro\Desktop\Vale 22-11-12\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\leandro\Desktop\Vale 22-11-12\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\BLL.dll
+C:\Users\leandro\Desktop\Vale 22-11-12\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\BLL.xml
+C:\Users\leandro\Desktop\Vale 22-11-12\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\BLL.pdb
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BLL.dll.config
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BLL.dll
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BLL.pdb
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BLL.xml
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BE.dll
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\DAL.dll
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BE.pdb
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BE.xml
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\DAL.pdb
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\DAL.xml
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\BLL.Resources.resources
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\BLL.dll
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\BLL.xml
+C:\Users\leandro\Desktop\24-11-12\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\BLL.pdb
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BLL.dll.config
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BLL.dll
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BLL.pdb
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BLL.xml
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BE.dll
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\DAL.dll
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BE.pdb
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BE.xml
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\DAL.pdb
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\DAL.xml
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\BLL.Resources.resources
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\BLL.dll
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\BLL.xml
+C:\Users\leandro\Desktop\VAle 26-11-12\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\BLL.pdb
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BLL.dll.config
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BLL.dll
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BLL.pdb
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BLL.xml
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BE.dll
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\DAL.dll
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BE.pdb
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BE.xml
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\DAL.pdb
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\DAL.xml
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\BLL.Resources.resources
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\BLL.dll
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\BLL.xml
+C:\Users\leandro\Desktop\VAle 26-11-12 - Copy\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\BLL.pdb
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BLL.dll.config
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BLL.dll
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BLL.pdb
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BLL.xml
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BE.dll
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\DAL.dll
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BE.pdb
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\BE.xml
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\DAL.pdb
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\bin\Debug\DAL.xml
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\ResolveAssemblyReference.cache
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\BLL.Resources.resources
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\GenerateResource.read.1.tlog
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\GenerateResource.write.1.tlog
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\BLL.dll
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\BLL.xml
+E:\TFI_ContinoLeandro_2012\seguirtrabajandoeneste - Copy\BLL.EdicionesFuturo\obj\Debug\BLL.pdb
+E:\TFI_ContinoLeandro_2012\Codigo\BLL.EdicionesFuturo\bin\Debug\BLL.dll.config
+E:\TFI_ContinoLeandro_2012\Codigo\BLL.EdicionesFuturo\bin\Debug\BLL.dll
+E:\TFI_ContinoLeandro_2012\Codigo\BLL.EdicionesFuturo\bin\Debug\BLL.pdb
+E:\TFI_ContinoLeandro_2012\Codigo\BLL.EdicionesFuturo\bin\Debug\BLL.xml
+E:\TFI_ContinoLeandro_2012\Codigo\BLL.EdicionesFuturo\bin\Debug\BE.dll
+E:\TFI_ContinoLeandro_2012\Codigo\BLL.EdicionesFuturo\bin\Debug\DAL.dll
+E:\TFI_ContinoLeandro_2012\Codigo\BLL.EdicionesFuturo\bin\Debug\BE.pdb
+E:\TFI_ContinoLeandro_2012\Codigo\BLL.EdicionesFuturo\bin\Debug\BE.xml
+E:\TFI_ContinoLeandro_2012\Codigo\BLL.EdicionesFuturo\bin\Debug\DAL.pdb
+E:\TFI_ContinoLeandro_2012\Codigo\BLL.EdicionesFuturo\bin\Debug\DAL.xml
+E:\TFI_ContinoLeandro_2012\Codigo\BLL.EdicionesFuturo\obj\Debug\ResolveAssemblyReference.cache
+E:\TFI_ContinoLeandro_2012\Codigo\BLL.EdicionesFuturo\obj\Debug\BLL.Resources.resources
+E:\TFI_ContinoLeandro_2012\Codigo\BLL.EdicionesFuturo\obj\Debug\GenerateResource.read.1.tlog
+E:\TFI_ContinoLeandro_2012\Codigo\BLL.EdicionesFuturo\obj\Debug\GenerateResource.write.1.tlog
+E:\TFI_ContinoLeandro_2012\Codigo\BLL.EdicionesFuturo\obj\Debug\BLL.dll
+E:\TFI_ContinoLeandro_2012\Codigo\BLL.EdicionesFuturo\obj\Debug\BLL.xml
+E:\TFI_ContinoLeandro_2012\Codigo\BLL.EdicionesFuturo\obj\Debug\BLL.pdb

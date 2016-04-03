@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Ediciones" Class="EdicionesFuturoDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=leandro-pc\SQLEXPRESS;Initial Catalog=Ediciones;Integrated Security=True" SettingsObjectName="DAL.My.MySettings" SettingsPropertyName="EdicionesFuturoConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Cliente" Member="Cliente">
+    <Type Name="Cliente">
+      <Column Name="clie_id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="clie_nom" Type="System.String" DbType="VarChar(30) NOT NULL" CanBeNull="false" />
+      <Column Name="clie_ape" Type="System.String" DbType="VarChar(30) NOT NULL" CanBeNull="false" />
+      <Column Name="clie_dir" Type="System.String" DbType="VarChar(30) NOT NULL" CanBeNull="false" />
+      <Column Name="clie_tel" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="clie_saldo" Type="System.Decimal" DbType="Decimal (10,0) NOT NULL" CanBeNull="false" />
+      <Column Name="clie_fec_alta" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="clie_activo" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="clie_dni" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="clie_email" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="clie_dvh" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="clie_usu_id" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="clie_dir_id" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Cliente_Venta" Member="Venta" ThisKey="clie_id" OtherKey="vent_clie_id" Type="Venta" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Direccion" Member="Direccion">
+    <Type Name="Direccion">
+      <Column Name="dir_id" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="dir_desc" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="loc_id" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Localidad_Direccion" Member="Localidad" ThisKey="loc_id" OtherKey="loc_id" Type="Localidad" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Familia" Member="Familia">
+    <Type Name="Familia">
+      <Column Name="fam_id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="fam_nom" Type="System.String" DbType="VarChar(15) NOT NULL" CanBeNull="false" />
+      <Column Name="fam_desc" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="fam_patente" Type="System.String" DbType="VarChar(30) NOT NULL" CanBeNull="false" />
+      <Column Name="fam_dvh" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Familia_fam_usu" Member="fam_usu" ThisKey="fam_id" OtherKey="fam_id" Type="fam_usu" />
+      <Association Name="Familia_pat_fam" Member="pat_fam" ThisKey="fam_id" OtherKey="fam_id" Type="pat_fam" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Idioma" Member="Idioma">
+    <Type Name="Idioma">
+      <Column Name="idio_id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="idio_desc" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Libro" Member="Libro">
+    <Type Name="Libro">
+      <Column Name="lib_id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="lib_desc" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="lib_cant" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="lib_precio" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="lib_activo" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="lib_editorial" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="lib_usu_id" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Localidad" Member="Localidad">
+    <Type Name="Localidad">
+      <Column Name="loc_id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="loc_desc" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Association Name="Localidad_Direccion" Member="Direccion" ThisKey="loc_id" OtherKey="loc_id" Type="Direccion" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Patente" Member="Patente">
+    <Type Name="Patente">
+      <Column Name="pat_id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="pat_nom" Type="System.String" DbType="VarChar(15) NOT NULL" CanBeNull="false" />
+      <Column Name="pat_desc" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="par_perm" Type="System.String" DbType="VarChar(30) NOT NULL" CanBeNull="false" />
+      <Column Name="pat_dvh" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Patente_usu_pat" Member="usu_pat" ThisKey="pat_id" OtherKey="pat_id" Type="usu_pat" />
+      <Association Name="Patente_pat_fam" Member="pat_fam" ThisKey="pat_id" OtherKey="pat_id" Type="pat_fam" />
+    </Type>
+  </Table>
+  <Table Name="dbo.traduccion" Member="traduccion">
+    <Type Name="traduccion">
+      <Column Name="tra_id" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="tra_idio_id" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="tra_texto" Type="System.String" DbType="VarChar(255) NOT NULL" CanBeNull="false" />
+      <Column Name="tra_control" Type="System.String" DbType="VarChar(255) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Usuario" Member="Usuario">
+    <Type Name="Usuario">
+      <Column Name="usu_id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="usu_nom" Type="System.String" DbType="VarChar(30) NOT NULL" CanBeNull="false" />
+      <Column Name="usu_ape" Type="System.String" DbType="VarChar(30) NOT NULL" CanBeNull="false" />
+      <Column Name="usu_dni" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="usu_pass" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="usu_log" Type="System.String" DbType="VarChar(30) NOT NULL" CanBeNull="false" />
+      <Column Name="usu_dvh" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="usu_activo" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="usu_ciii" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="usu_bloqueado" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="usu_email" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="usu_idio_id" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="usu_pat_id" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="usu_fam_id" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Usuario_fam_usu" Member="fam_usu" ThisKey="usu_id" OtherKey="usu_id" Type="fam_usu" />
+      <Association Name="Usuario_Bitacora" Member="Bitacora" ThisKey="usu_id" OtherKey="but_usu_id" Type="Bitacora" />
+    </Type>
+  </Table>
+  <Table Name="dbo.vent_lib" Member="vent_lib">
+    <Type Name="vent_lib">
+      <Column Name="vent_id" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="lib_id" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="vent_lib_cant" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Criticidad" Member="Criticidad">
+    <Type Name="Criticidad">
+      <Column Name="crit_id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="crit_desc" Type="System.String" DbType="NChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="crit_dvh" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Criticidad_Bitacora" Member="Bitacora" ThisKey="crit_id" OtherKey="bit_crit_id" Type="Bitacora" />
+    </Type>
+  </Table>
+  <Table Name="dbo.DVV" Member="DVV">
+    <Type Name="DVV">
+      <Column Name="iddvv" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="dvv_tabla_nom" Type="System.String" DbType="NChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="dvv_dvv" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Vendedor" Member="Vendedor">
+    <Type Name="Vendedor">
+      <Column Name="vend_id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="vend_nom" Type="System.String" DbType="VarChar(30) NOT NULL" CanBeNull="false" />
+      <Column Name="vend_legajo" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="vend_ape" Type="System.String" DbType="VarChar(30) NOT NULL" CanBeNull="false" />
+      <Column Name="vend_tel" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="vend_activo" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="vend_email" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Venta" Member="Venta">
+    <Type Name="Venta">
+      <Column Name="vent_id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="vent_clie_id" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="vent_vend_id" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="vent_usu_id" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="vent_lib_id" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="vent_importe" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="vent_activo" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="vent_cuotas" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="vent_fecha" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="vent_dvh" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="vent_valorcuota" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Cliente_Venta" Member="Cliente" ThisKey="vent_clie_id" OtherKey="clie_id" Type="Cliente" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.[usu-pat]" Member="usu_pat">
+    <Type Name="usu_pat">
+      <Column Name="tipo" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="[pat-id]" Member="pat_id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="[usu-id]" Member="usu_id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="dvh" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Patente_usu_pat" Member="Patente" ThisKey="pat_id" OtherKey="pat_id" Type="Patente" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.[fam-usu]" Member="fam_usu">
+    <Type Name="fam_usu">
+      <Column Name="[fam-id]" Member="fam_id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="[usu-id]" Member="usu_id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="dvh" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Familia_fam_usu" Member="Familia" ThisKey="fam_id" OtherKey="fam_id" Type="Familia" IsForeignKey="true" />
+      <Association Name="Usuario_fam_usu" Member="Usuario" ThisKey="usu_id" OtherKey="usu_id" Type="Usuario" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.[pat-fam]" Member="pat_fam">
+    <Type Name="pat_fam">
+      <Column Name="[pat-id]" Member="pat_id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="[fam-id]" Member="fam_id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="dvh" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Familia_pat_fam" Member="Familia" ThisKey="fam_id" OtherKey="fam_id" Type="Familia" IsForeignKey="true" />
+      <Association Name="Patente_pat_fam" Member="Patente" ThisKey="pat_id" OtherKey="pat_id" Type="Patente" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Bitacora" Member="Bitacora">
+    <Type Name="Bitacora">
+      <Column Name="bit_id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" CanBeNull="false" IsVersion="true" />
+      <Column Name="bit_fecha" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" UpdateCheck="Always" />
+      <Column Name="bit_desc" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" UpdateCheck="Always" />
+      <Column Name="bit_usu_log" Type="System.String" DbType="VarChar(30) NOT NULL" CanBeNull="false" UpdateCheck="Always" />
+      <Column Name="bit_dvh" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" UpdateCheck="Always" />
+      <Column Name="but_usu_id" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" UpdateCheck="Always" />
+      <Column Name="bit_crit_id" Type="System.Int32" DbType="Int" CanBeNull="true" UpdateCheck="Always" />
+      <Association Name="Criticidad_Bitacora" Member="Criticidad" ThisKey="bit_crit_id" OtherKey="crit_id" Type="Criticidad" IsForeignKey="true" />
+      <Association Name="Usuario_Bitacora" Member="Usuario" ThisKey="but_usu_id" OtherKey="usu_id" Type="Usuario" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

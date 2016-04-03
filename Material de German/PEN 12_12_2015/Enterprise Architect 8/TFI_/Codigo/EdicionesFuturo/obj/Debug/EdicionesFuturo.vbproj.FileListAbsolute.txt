@@ -1,0 +1,12 @@
+E:\ContinoLeandro_2012\Code\EdicionesFuturo\EdicionesFuturo\bin\Debug\EdicionesFuturo.dll
+E:\ContinoLeandro_2012\Code\EdicionesFuturo\EdicionesFuturo\bin\Debug\EdicionesFuturo.pdb
+E:\ContinoLeandro_2012\Code\EdicionesFuturo\EdicionesFuturo\bin\Debug\EdicionesFuturo.xml
+E:\ContinoLeandro_2012\Code\EdicionesFuturo\EdicionesFuturo\obj\Debug\ResolveAssemblyReference.cache
+E:\ContinoLeandro_2012\Code\EdicionesFuturo\EdicionesFuturo\obj\Debug\EdicionesFuturo.frmPrincipal.resources
+E:\ContinoLeandro_2012\Code\EdicionesFuturo\EdicionesFuturo\obj\Debug\EdicionesFuturo.Resources.resources
+E:\ContinoLeandro_2012\Code\EdicionesFuturo\EdicionesFuturo\obj\Debug\GenerateResource.read.1.tlog
+E:\ContinoLeandro_2012\Code\EdicionesFuturo\EdicionesFuturo\obj\Debug\GenerateResource.write.1.tlog
+E:\ContinoLeandro_2012\Code\EdicionesFuturo\EdicionesFuturo\obj\Debug\EdicionesFuturo.dll
+E:\ContinoLeandro_2012\Code\EdicionesFuturo\EdicionesFuturo\obj\Debug\EdicionesFuturo.xml
+E:\ContinoLeandro_2012\Code\EdicionesFuturo\EdicionesFuturo\obj\Debug\EdicionesFuturo.pdb
+E:\ContinoLeandro_2012\Code\EdicionesFuturo\EdicionesFuturo\obj\Debug\EdicionesFuturo.frmCliente.resources
