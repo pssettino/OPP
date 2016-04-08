@@ -1,0 +1,56 @@
+
+
+1.	Especificaciones de casos de usos (Negocio)
+        CU01 – Obtener Clientes	
+     	CU02 – Registrar Clientes   
+     	CU03 – Modificar Clientes
+     	CU04 – Eliminar Clientes	
+     	CU05 – Generar Reportes de Clientes	
+     	CU06 – Obtener Bodegas     	
+     	CU07 – Registrar Bodegas   
+     	CU08 – Modificar Bodegas
+     	CU09 – Eliminar Bodegas     	
+     	CU10 – Obtener Provincias
+     	CU11 – Obtener Localidades       	 
+     	CU12 – Obtener Vinos 
+     	CU13 – Registrar Vinos 
+     	CU14 – Modificar Vinos
+      	CU15 – Eliminar Vinos 
+      	CU16 – Generar Reportes de Stock de Vinos 
+      	CU17 – Obtener Ventas 
+      	CU18 – Registrar Ventas 
+      	CU19 – Modificar Ventas 
+      	CU20 – Eliminar Ventas 
+      	CU21 – Validar Ventas 
+      	CU22 – Agregar Vinos por Venta 
+      	CU23 – Quitar Vinos por Venta
+      	CU24 – Actualizar Stock de Vinos 
+      	CU25 – Generar Reportes de Ventas de Vinos 
+      
+      		 
+2.	Especificaciones de casos de usos (Seguridad)	 
+     	CU26 – LogIn 
+     	CU27 – LogOut 
+     	CU28 – Obtener Usuarios 
+     	CU29 – Registrar Usuarios 
+     	CU30 – Modificar Usuarios 
+     	CU31 – Eliminar Usuarios 
+     	CU32 – Bloquear Usuario	 
+      	CU33 – Desbloquear Usuario 
+      	CU34 – Restablecer Contraseña 
+     	CU35 – Asignar Familias a Usuarios 
+     	CU36 – Asignar Patentes a Usuarios      	
+      	CU37 – Calcular DVH 
+      	CU38 – Calcular DVV	       	
+      	CU39 – Registrar Familia 
+      	CU40 – Modificar Familia 
+      	CU41 – Eliminar Familia 
+      	CU42 – Agregar Patente a Familia 
+      	CU43 – Quitar Patente a Familia 
+      	CU44 – Obtener Bitacora       	
+      	CU45 – Obtener Patentes 
+      	CU46 – Obtener Familias 
+      	CU47 – Realizar Backup 
+      	CU48 – Realizar Restore 
+      	CU49 – Cargar Idioma 
+
