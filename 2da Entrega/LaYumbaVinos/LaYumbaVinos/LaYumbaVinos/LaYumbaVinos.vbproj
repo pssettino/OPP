@@ -91,7 +91,6 @@
     <Compile Include="ObtenerUsuarios.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Usuario.vb" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="My Project\Resources.resx">

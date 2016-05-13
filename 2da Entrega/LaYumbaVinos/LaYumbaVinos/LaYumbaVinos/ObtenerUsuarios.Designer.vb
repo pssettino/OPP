@@ -22,26 +22,17 @@ Partial Class ObtenerUsuarios
     'No lo modifique con el editor de código.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Me.DataGridView1 = New System.Windows.Forms.DataGridView()
         Me.Usuarios = New System.Windows.Forms.GroupBox()
-        Me.Usuario = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.ApeNom = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.Email = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.ModificarUsuario = New System.Windows.Forms.DataGridViewButtonColumn()
-        Me.Eliminar = New System.Windows.Forms.DataGridViewButtonColumn()
         Me.Bloquear = New System.Windows.Forms.DataGridViewButtonColumn()
-        CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.Eliminar = New System.Windows.Forms.DataGridViewButtonColumn()
+        Me.ModificarUsuario = New System.Windows.Forms.DataGridViewButtonColumn()
+        Me.Email = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.ApeNom = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.Usuario = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.DataGridView1 = New System.Windows.Forms.DataGridView()
         Me.Usuarios.SuspendLayout()
+        CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
-        '
-        'DataGridView1
-        '
-        Me.DataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        Me.DataGridView1.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.Usuario, Me.ApeNom, Me.Email, Me.ModificarUsuario, Me.Eliminar, Me.Bloquear})
-        Me.DataGridView1.Location = New System.Drawing.Point(17, 30)
-        Me.DataGridView1.Name = "DataGridView1"
-        Me.DataGridView1.Size = New System.Drawing.Size(739, 205)
-        Me.DataGridView1.TabIndex = 0
         '
         'Usuarios
         '
@@ -53,10 +44,26 @@ Partial Class ObtenerUsuarios
         Me.Usuarios.TabStop = False
         Me.Usuarios.Text = "Usuarios"
         '
-        'Usuario
+        'Bloquear
         '
-        Me.Usuario.HeaderText = "Usuario"
-        Me.Usuario.Name = "Usuario"
+        Me.Bloquear.HeaderText = ""
+        Me.Bloquear.Name = "Bloquear"
+        Me.Bloquear.Text = ""
+        '
+        'Eliminar
+        '
+        Me.Eliminar.HeaderText = ""
+        Me.Eliminar.Name = "Eliminar"
+        '
+        'ModificarUsuario
+        '
+        Me.ModificarUsuario.HeaderText = ""
+        Me.ModificarUsuario.Name = "ModificarUsuario"
+        '
+        'Email
+        '
+        Me.Email.HeaderText = "Email"
+        Me.Email.Name = "Email"
         '
         'ApeNom
         '
@@ -64,26 +71,19 @@ Partial Class ObtenerUsuarios
         Me.ApeNom.HeaderText = "Apellido y Nombre"
         Me.ApeNom.Name = "ApeNom"
         '
-        'Email
+        'Usuario
         '
-        Me.Email.HeaderText = "Email"
-        Me.Email.Name = "Email"
+        Me.Usuario.HeaderText = "Usuario"
+        Me.Usuario.Name = "Usuario"
         '
-        'ModificarUsuario
+        'DataGridView1
         '
-        Me.ModificarUsuario.HeaderText = ""
-        Me.ModificarUsuario.Name = "ModificarUsuario"
-        '
-        'Eliminar
-        '
-        Me.Eliminar.HeaderText = ""
-        Me.Eliminar.Name = "Eliminar"
-        '
-        'Bloquear
-        '
-        Me.Bloquear.HeaderText = ""
-        Me.Bloquear.Name = "Bloquear"
-        Me.Bloquear.Text = ""
+        Me.DataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
+        Me.DataGridView1.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.Usuario, Me.ApeNom, Me.Email, Me.ModificarUsuario, Me.Eliminar, Me.Bloquear})
+        Me.DataGridView1.Location = New System.Drawing.Point(17, 30)
+        Me.DataGridView1.Name = "DataGridView1"
+        Me.DataGridView1.Size = New System.Drawing.Size(739, 205)
+        Me.DataGridView1.TabIndex = 0
         '
         'ObtenerUsuarios
         '
@@ -93,11 +93,12 @@ Partial Class ObtenerUsuarios
         Me.Controls.Add(Me.Usuarios)
         Me.Name = "ObtenerUsuarios"
         Me.Text = "Usuarios"
-        CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).EndInit()
         Me.Usuarios.ResumeLayout(False)
+        CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
 
     End Sub
+    Friend WithEvents Usuarios As System.Windows.Forms.GroupBox
     Friend WithEvents DataGridView1 As System.Windows.Forms.DataGridView
     Friend WithEvents Usuario As System.Windows.Forms.DataGridViewTextBoxColumn
     Friend WithEvents ApeNom As System.Windows.Forms.DataGridViewTextBoxColumn
@@ -105,5 +106,4 @@ Partial Class ObtenerUsuarios
     Friend WithEvents ModificarUsuario As System.Windows.Forms.DataGridViewButtonColumn
     Friend WithEvents Eliminar As System.Windows.Forms.DataGridViewButtonColumn
     Friend WithEvents Bloquear As System.Windows.Forms.DataGridViewButtonColumn
-    Friend WithEvents Usuarios As System.Windows.Forms.GroupBox
 End Class
