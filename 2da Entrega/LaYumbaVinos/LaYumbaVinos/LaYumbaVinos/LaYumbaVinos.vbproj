@@ -91,6 +91,30 @@
     <Compile Include="ObtenerUsuarios.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="ObtenerVentas.Designer.vb">
+      <DependentUpon>ObtenerVentas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ObtenerVentas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrarBodega.Designer.vb">
+      <DependentUpon>RegistrarBodega.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrarBodega.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrarUsuario.Designer.vb">
+      <DependentUpon>RegistrarUsuario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrarUsuario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VinosPorVenta.Designer.vb">
+      <DependentUpon>VinosPorVenta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VinosPorVenta.vb">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="My Project\Resources.resx">
@@ -101,6 +125,18 @@
     </EmbeddedResource>
     <EmbeddedResource Include="ObtenerUsuarios.resx">
       <DependentUpon>ObtenerUsuarios.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObtenerVentas.resx">
+      <DependentUpon>ObtenerVentas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistrarBodega.resx">
+      <DependentUpon>RegistrarBodega.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistrarUsuario.resx">
+      <DependentUpon>RegistrarUsuario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VinosPorVenta.resx">
+      <DependentUpon>VinosPorVenta.vb</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
