@@ -247,11 +247,13 @@ body {
 }
 
 #fh5co-header {
-  position: absolute;
+  position: relative;
+  color:black;
+  background-color:#fff;
   width: 100%;
   left: 0;
   padding-top: 50px;
-  z-index: 12;
+  z-index: 12;  
 }
 @media screen and (max-width: 768px) {
   #fh5co-header {
@@ -261,7 +263,7 @@ body {
 #fh5co-header #fh5co-logo {
   text-align: center;
   display: block;
-  position: absolute;
+  position: relative;
   width: 100%;
   left: 0;
   top: -12px;
@@ -270,23 +272,26 @@ body {
 #fh5co-header #fh5co-logo a {
   font-size: 30px;
   font-weight: 500;
-  color: white;
+  color: black;
 }
 #fh5co-header #fh5co-logo a span {
   color: #8dc63f;
 }
 #fh5co-header nav {
   position: relative;
+  color:black;
 }
 #fh5co-header nav ul {
   padding: 0;
   margin: 0;
   z-index: 2;
   position: relative;
+  color:black;
 }
 @media screen and (max-width: 768px) {
   #fh5co-header nav ul {
     display: none;
+	
   }
 }
 #fh5co-header nav ul li {
@@ -298,7 +303,7 @@ body {
   font-weight: 400;
 }
 #fh5co-header nav ul li a:hover {
-  color: white;
+  color: gray;
 }
 #fh5co-header nav ul li.fh5co-cta-btn a {
   position: relative;
@@ -311,10 +316,10 @@ body {
   border-radius: 7px;
 }
 #fh5co-header nav ul li.fh5co-cta-btn a:hover {
-  border: 2px solid white;
+  border: 2px solid black;
 }
 #fh5co-header nav ul li.active a {
-  color: white;
+  color: black;
 }
 #fh5co-header nav ul.left-menu li {
   margin-right: 30px;
