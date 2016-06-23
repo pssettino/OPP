@@ -88,9 +88,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .btn-primary {
-  background: #8dc63f;
+  background: #2772DB;
   color: #fff;
-  border: 2px solid #8dc63f;
+  border: 2px solid #2772DB;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
   background: #99cc53 !important;
@@ -98,11 +98,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 .btn-primary.btn-outline {
   background: transparent;
-  color: #8dc63f;
-  border: 2px solid #8dc63f;
+  color: #2772DB;
+  border: 2px solid #2772DB;
 }
 .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
-  background: #8dc63f;
+  background: #2772DB;
   color: #fff;
 }
 
@@ -205,7 +205,7 @@ h1, h2, h3, h4, h5, h6 {
 .form-control:active, .form-control:focus {
   outline: none;
   box-shadow: none;
-  border-color: #8dc63f;
+  border-color: #2772DB;
 }
 
 body {
@@ -275,7 +275,7 @@ body {
   color: black;
 }
 #fh5co-header #fh5co-logo a span {
-  color: #8dc63f;
+  color: #2772DB;
 }
 #fh5co-header nav {
   position: relative;
@@ -464,7 +464,7 @@ body {
   width: 50px;
   height: 50px;
   margin: 0 auto;
-  background: #8dc63f;
+  background: #2772DB;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
@@ -678,7 +678,7 @@ body {
   display: table-cell;
   vertical-align: middle;
   font-size: 50px;
-  color: #8dc63f;
+  color: #2772DB;
 }
 #fh5co-features .fh5co-feature h3 {
   font-size: 20px;
@@ -715,7 +715,7 @@ body {
 }
 #fh5co-features-2 .fh5co-feature .fh5co-icon i, #fh5co-features-3 .fh5co-feature .fh5co-icon i, #fh5co-features-4 .fh5co-feature .fh5co-icon i {
   font-size: 40px;
-  color: #8dc63f;
+  color: #2772DB;
 }
 @media screen and (max-width: 768px) {
   #fh5co-features-2 .fh5co-feature .fh5co-icon i, #fh5co-features-3 .fh5co-feature .fh5co-icon i, #fh5co-features-4 .fh5co-feature .fh5co-icon i {
@@ -935,7 +935,7 @@ body {
 }
 
 #fh5co-info {
-  background: #8dc63f;
+  background: #2772DB;
 }
 #fh5co-info .fh5co-label {
   color: rgba(255, 255, 255, 0.5);
@@ -963,7 +963,7 @@ body {
   border-radius: 5px;
 }
 #fh5co-pricing .price-box.popular {
-  border: 2px solid #8dc63f;
+  border: 2px solid #2772DB;
 }
 #fh5co-pricing .price-box.popular .popular-text {
   top: 0;
@@ -972,7 +972,7 @@ body {
   margin-top: -2em;
   position: absolute;
   padding: 4px 20px;
-  background: #8dc63f;
+  background: #2772DB;
   color: #fff;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
@@ -986,7 +986,7 @@ body {
   left: 50%;
   margin-left: -10px;
   border-top: 10px solid black;
-  border-top-color: #8dc63f;
+  border-top-color: #2772DB;
   border-left: 10px solid transparent;
   border-right: 10px solid transparent;
 }
@@ -1123,7 +1123,7 @@ body {
 }
 .fh5co-social li a:hover {
   text-decoration: none !important;
-  color: #8dc63f !important;
+  color: #2772DB !important;
 }
 
 .fh5co-person {
@@ -1210,7 +1210,7 @@ body {
   color: rgba(255, 255, 255, 0.7);
 }
 #fh5co-offcanvas ul li.active a {
-  color: #8dc63f;
+  color: #2772DB;
 }
 
 .fh5co-nav-toggle {
